@@ -2,18 +2,22 @@
 
 ## Responsible Customer Lifetime Value / Next-Best-Action Model
 
-[![Build: passing](https://img.shields.io/badge/build-passing-brightgreen)](.github/workflows/validate.yml)
+[![Validate repository](https://github.com/albertojromerot/credit-growth-analytics-pipeline/actions/workflows/validate.yml/badge.svg)](https://github.com/albertojromerot/credit-growth-analytics-pipeline/actions/workflows/validate.yml)
 [![Python: 3.11](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![Dashboard: Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b)](dashboard/)
 [![Data: synthetic](https://img.shields.io/badge/data-synthetic-lightgrey)](data/synthetic/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Version: v1.0.0](https://img.shields.io/badge/version-v1.0.0-informational)](CHANGELOG.md)
 [![Use case: responsible credit growth / NBA](https://img.shields.io/badge/use%20case-responsible%20credit%20growth%20%2F%20NBA-informational)](docs/executive_summary.md)
 
 | Status area | Current state |
 |---|---|
-| Build | Passing via GitHub Actions validation |
+| Build | Validated through GitHub Actions |
+| Version | v1.0.0 public portfolio release |
 | Python | 3.11 |
 | Dashboard | Streamlit |
 | Data | Synthetic financial-services data |
+| Licence | MIT |
 | Use case | Responsible credit growth / Next-Best-Action |
 
 This repository demonstrates how customer analytics, responsible credit behaviour modelling, and expected value estimation can be combined into an auditable **Next-Best-Action** decision pipeline for financial services.
@@ -31,6 +35,8 @@ P(conversion)
 × Expected Credit Value
 × Eligibility / governance filters
 ```
+
+> **Disclaimer:** this is a public portfolio project using synthetic data only. It does not represent real customers, real credit decisions, real financial products, or an automated lending-approval process. See [`DISCLAIMER.md`](DISCLAIMER.md).
 
 ---
 
@@ -101,6 +107,14 @@ Pipeline completed. Check the outputs/ and dashboard/data/ folders.
 4 passed
 ```
 
+Reviewer shortcuts are also available through the `Makefile`:
+
+```bash
+make install
+make validate
+make dashboard
+```
+
 For troubleshooting and reviewer checks, see [`docs/reproducibility_guide.md`](docs/reproducibility_guide.md).
 
 ---
@@ -149,6 +163,11 @@ The pipeline contains five main layers:
 credit-growth-analytics-pipeline/
 │
 ├── README.md
+├── LICENSE
+├── DISCLAIMER.md
+├── CHANGELOG.md
+├── CITATION.cff
+├── Makefile
 ├── requirements.txt
 ├── .gitignore
 │
@@ -301,7 +320,7 @@ This allows a technical reviewer to confirm that the repository is reproducible 
 
 ---
 
-## 10. Governance and Responsible Lending
+## 10. Governance, Responsible Lending and Disclaimer
 
 This project includes a governance layer covering:
 
@@ -315,7 +334,7 @@ This project includes a governance layer covering:
 - treatment-log feedback loop;
 - monitoring and drift checks.
 
-The model supports prioritisation and decision intelligence. It is not intended to automate final credit approval.
+The model supports prioritisation and decision intelligence. It is not intended to automate final credit approval. For use restrictions and interpretation notes, see [`DISCLAIMER.md`](DISCLAIMER.md).
 
 ---
 
@@ -342,15 +361,37 @@ The model supports prioritisation and decision intelligence. It is not intended 
 | `docs/model_card.md` | Purpose, limitations, validation, governance |
 | `docs/architecture_diagram.md` | Mermaid architecture diagram |
 | `docs/visualisation_layer.md` | Dashboard design and KPI layout |
+| `DISCLAIMER.md` | Synthetic-data and non-credit-advice disclaimer |
+| `CHANGELOG.md` | Release history |
+| `CITATION.cff` | Citation metadata |
+| `LICENSE` | MIT licence |
 
 ---
 
 ## 13. Status
 
-Current status: reproducible core pipeline, dashboard-ready outputs, Streamlit dashboard, governance checks, model specification, validation guide, GitHub Actions workflow, and dashboard screenshots implemented.
+Current status: **v1.0.0 public portfolio release**.
 
-Next steps:
+Implemented:
 
-1. review the dashboard screenshots in the README;
-2. confirm that GitHub Actions validation is green;
-3. update CV and LinkedIn once the final repository presentation is complete.
+1. reproducible core pipeline;
+2. dashboard-ready outputs;
+3. Streamlit dashboard;
+4. governance checks;
+5. model specification;
+6. validation guide;
+7. GitHub Actions workflow;
+8. dashboard screenshots;
+9. MIT licence;
+10. disclaimer;
+11. changelog;
+12. citation metadata;
+13. Makefile command shortcuts.
+
+Recommended future enhancements:
+
+1. deploy a live Streamlit Community Cloud demo;
+2. add SHAP or permutation-importance explanations;
+3. add HistGradientBoostingClassifier as a challenger model;
+4. add a formal GitHub release tag for `v1.0.0`;
+5. add repository topics and a GitHub social preview image.
