@@ -393,5 +393,5 @@ Future enhancements:
 1. deploy a live Streamlit Community Cloud demo;
 2. add SHAP or permutation-importance explanations;
 3. add HistGradientBoostingClassifier as a challenger model;
-4. add a formal GitHub release tag for `v1.0.0`;
-5. add repository topics and a GitHub social preview image.
+4. expand fairness and segment-performance diagnostics;
+5. add a lightweight portfolio case-study PDF.
