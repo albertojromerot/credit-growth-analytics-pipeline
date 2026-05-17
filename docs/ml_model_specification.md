@@ -30,7 +30,7 @@ The choice of Extra Trees is suitable for this portfolio version because it is:
 4. less sensitive to monotonic transformations than linear models;
 5. useful as a strong, reproducible tabular benchmark.
 
-A HistGradientBoostingClassifier is a strong candidate for a future model comparison layer, but it is not the current implemented champion in this repository. The current repository should remain honest and describe the implemented model as Extra Trees unless the code is later changed.
+A HistGradientBoostingClassifier is a strong candidate for a future model comparison layer, but it is not the current implemented champion in this repository. The current repository should describe the implemented model as Extra Trees unless the code is later changed.
 
 ---
 
@@ -190,7 +190,7 @@ Future versions may add:
 
 ## 13. Deployment and Governance Position
 
-This model is designed for portfolio demonstration and decision support. In a real financial institution, final usage would require:
+This model is designed for demonstration and decision support. In a real financial institution, final usage would require:
 
 1. formal affordability assessment;
 2. credit risk policy approval;
