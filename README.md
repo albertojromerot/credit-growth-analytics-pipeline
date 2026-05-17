@@ -20,6 +20,42 @@ P(conversion)
 
 ---
 
+## View the Final Results Dashboard
+
+The Streamlit dashboard is the final visual output layer of the project. It is the portfolio equivalent of a Power BI dashboard and is designed for both technical and non-technical review.
+
+After running the pipeline, launch the dashboard from the repository root:
+
+```bash
+python -m streamlit run dashboard/streamlit_app.py
+```
+
+The dashboard shows:
+
+1. **Main Dashboard** — executive summary, Top 10 recommendations, benchmark comparison, and governance snapshot.
+2. **Executive Overview** — commercial opportunity, expected value, product mix, and segment view.
+3. **Customer Ranking** — advisor-ready Next-Best-Action list with reason codes and eligibility flags.
+4. **Model Performance** — ROC-AUC, PR-AUC, Precision@50, benchmark comparison, and expected-value comparison.
+5. **Governance Monitoring** — data-quality checks, responsible-lending exclusions, and audit signals.
+
+Dashboard screenshots should be stored in:
+
+```text
+docs/assets/screenshots/
+```
+
+Planned screenshot files:
+
+```text
+01_dashboard_landing.png
+02_executive_overview.png
+03_customer_ranking.png
+04_model_performance.png
+05_governance_monitoring.png
+```
+
+---
+
 ## Quickstart: validate the repository
 
 A reviewer can validate the project from the terminal using the commands below.
@@ -66,7 +102,8 @@ This project demonstrates the ability to:
 - generate safe synthetic financial-services data;
 - validate models using ranking and business metrics, not only accuracy;
 - design a visualisation layer equivalent to a Power BI dashboard;
-- document governance, responsible lending filters, and monitoring requirements.
+- document governance, responsible lending filters, and monitoring requirements;
+- validate the repository automatically using GitHub Actions.
 
 ---
 
@@ -92,6 +129,10 @@ credit-growth-analytics-pipeline/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+│
+├── .github/
+│   └── workflows/
+│       └── validate.yml
 │
 ├── data/
 │   └── synthetic/
@@ -119,9 +160,12 @@ credit-growth-analytics-pipeline/
 │
 ├── outputs/
 ├── docs/
+│   ├── assets/
+│   │   └── screenshots/
 │   ├── architecture_diagram.md
 │   ├── executive_summary.md
 │   ├── technical_note.md
+│   ├── ml_model_specification.md
 │   ├── model_card.md
 │   ├── reproducibility_guide.md
 │   └── visualisation_layer.md
@@ -161,10 +205,12 @@ The analytical design uses three complementary components:
 Final ranking score:
 
 ```text
-responsible_nba_score = p_conversion × p_responsible × expected_value
+responsible_nba_score = p_conversion × p_responsible × expected_value × eligibility_flag
 ```
 
 The final output is an advisor-ready ranked list with recommended action, reason codes, and governance flags.
+
+Full model details are available in [`docs/ml_model_specification.md`](docs/ml_model_specification.md).
 
 ---
 
@@ -197,20 +243,43 @@ Model metrics from the current synthetic run:
 
 ## 8. Visualisation Layer
 
-The repository includes a dashboard layer designed as the portfolio equivalent of a Power BI dashboard.
+The repository includes a Streamlit dashboard designed as the portfolio equivalent of a Power BI dashboard.
 
 The dashboard presents:
 
 1. **Executive Overview** — portfolio opportunity, expected value, Top 50 summary, and action distribution.
 2. **Customer Ranking** — ranked Next-Best-Action list with probabilities, score, product, reason codes, and eligibility flags.
-3. **Model Performance** — ROC-AUC, PR-AUC, Precision@50, Lift@50, calibration, and benchmark comparison.
-4. **Governance Monitoring** — data-quality checks, leakage tests, model drift, and responsible lending exclusions.
+3. **Model Performance** — ROC-AUC, PR-AUC, Precision@50, benchmark comparison, and expected-value comparison.
+4. **Governance Monitoring** — data-quality checks, leakage tests, and responsible-lending exclusions.
 
-The initial implementation uses Streamlit so the dashboard can be reproduced directly from GitHub.
+The dashboard can be launched with:
+
+```bash
+python -m streamlit run dashboard/streamlit_app.py
+```
 
 ---
 
-## 9. Governance and Responsible Lending
+## 9. Automated Validation
+
+The repository includes a GitHub Actions workflow:
+
+```text
+.github/workflows/validate.yml
+```
+
+The workflow runs automatically on pushes and pull requests to `main`. It:
+
+1. installs Python dependencies;
+2. runs the full reproducible pipeline;
+3. runs the automated tests;
+4. uploads generated validation outputs as workflow artefacts.
+
+This allows a technical reviewer to confirm that the repository is reproducible and testable.
+
+---
+
+## 10. Governance and Responsible Lending
 
 This project includes a governance layer covering:
 
@@ -228,7 +297,7 @@ The model supports prioritisation and decision intelligence. It is not intended 
 
 ---
 
-## 10. Expected Outputs
+## 11. Expected Outputs
 
 | Output | Purpose |
 |---|---|
@@ -240,26 +309,27 @@ The model supports prioritisation and decision intelligence. It is not intended 
 
 ---
 
-## 11. Documentation
+## 12. Documentation
 
 | Document | Purpose |
 |---|---|
 | `docs/reproducibility_guide.md` | Terminal commands and validation checklist |
 | `docs/technical_note.md` | Technical explanation |
 | `docs/executive_summary.md` | Non-technical summary |
+| `docs/ml_model_specification.md` | Full ML model specification |
 | `docs/model_card.md` | Purpose, limitations, validation, governance |
 | `docs/architecture_diagram.md` | Mermaid architecture diagram |
 | `docs/visualisation_layer.md` | Dashboard design and KPI layout |
 
 ---
 
-## 12. Status
+## 13. Status
 
-Current status: reproducible core pipeline, dashboard-ready outputs, governance checks, and validation guide implemented.
+Current status: reproducible core pipeline, dashboard-ready outputs, Streamlit dashboard, governance checks, model specification, validation guide, and GitHub Actions workflow implemented.
 
 Next steps:
 
-1. polish the technical note using the current benchmark outputs;
-2. polish the executive summary for non-technical hiring managers;
-3. improve dashboard narrative and charts;
-4. update the CV and LinkedIn bullet only once the final repository is complete.
+1. capture dashboard screenshots;
+2. upload them to `docs/assets/screenshots/`;
+3. embed the final screenshots in this README;
+4. update CV and LinkedIn once the final repository presentation is complete.
