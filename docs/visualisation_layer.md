@@ -2,7 +2,7 @@
 
 The visualisation layer is implemented in Streamlit and is the final dashboard output of the Credit Growth Analytics Pipeline.
 
-It is designed as the portfolio equivalent of a Power BI dashboard: a reviewer can inspect the business opportunity, customer ranking, model performance, and governance controls without reading every source-code file.
+It is designed as the equivalent of a Power BI dashboard: a reviewer can inspect the business opportunity, customer ranking, model performance, and governance controls without reading every source-code file.
 
 ## How to launch the dashboard
 
