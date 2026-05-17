@@ -36,4 +36,4 @@ The project produces:
 
 ## Positioning
 
-This is a portfolio project for finance, BI, customer analytics, credit risk analytics, and commercial data science roles.
+This is a project for finance, BI, customer analytics, credit risk analytics, and commercial data science scenarios.
