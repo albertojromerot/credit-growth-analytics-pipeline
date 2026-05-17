@@ -122,7 +122,7 @@ In a real financial-services environment, final action would still require affor
 
 ## 8. Employer-Facing Positioning
 
-This portfolio asset is relevant to London finance and analytics roles because it connects:
+This asset is relevant to finance and analytics scenarios because it connects:
 
 - customer analytics;
 - credit risk awareness;
