@@ -22,7 +22,7 @@ P(conversion)
 
 ## View the Final Results Dashboard
 
-The Streamlit dashboard is the final visual output layer of the project. It is the portfolio equivalent of a Power BI dashboard and is designed for both technical and non-technical review.
+The Streamlit dashboard is the final visual output layer of the project. It is the equivalent of a Power BI dashboard and is designed for both technical and non-technical review.
 
 After running the pipeline, launch the dashboard from the repository root:
 
