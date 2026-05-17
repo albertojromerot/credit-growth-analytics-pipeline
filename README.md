@@ -13,7 +13,7 @@
 | Status area | Current state |
 |---|---|
 | Build | Validated through GitHub Actions |
-| Version | v1.0.0 public portfolio release |
+| Version | v1.0.0 public release |
 | Python | 3.11 |
 | Dashboard | Streamlit |
 | Data | Synthetic financial-services data |
@@ -36,7 +36,7 @@ P(conversion)
 × Eligibility / governance filters
 ```
 
-> **Disclaimer:** this is a public portfolio project using synthetic data only. It does not represent real customers, real credit decisions, real financial products, or an automated lending-approval process. See [`DISCLAIMER.md`](DISCLAIMER.md).
+> **Disclaimer:** this is a public project using synthetic data only. It does not represent real customers, real credit decisions, real financial products, or an automated lending-approval process. See [`DISCLAIMER.md`](DISCLAIMER.md).
 
 ---
 
@@ -284,7 +284,7 @@ Model metrics from the current synthetic run:
 
 ## 8. Visualisation Layer
 
-The repository includes a Streamlit dashboard designed as the portfolio equivalent of a Power BI dashboard.
+The repository includes a Streamlit dashboard designed as the equivalent of a Power BI dashboard.
 
 The dashboard presents:
 
@@ -370,7 +370,7 @@ The model supports prioritisation and decision intelligence. It is not intended 
 
 ## 13. Status
 
-Current status: **v1.0.0 public portfolio release**.
+Current status: **v1.0.0 public release**.
 
 Implemented:
 
