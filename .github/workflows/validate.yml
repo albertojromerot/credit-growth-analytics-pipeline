@@ -1,0 +1,47 @@
+name: Validate repository
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Run pipeline and tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Run reproducible pipeline
+        run: |
+          python -m src.run_pipeline
+
+      - name: Run tests
+        run: |
+          python -m pytest tests -q
+
+      - name: Upload generated validation outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-outputs
+          path: |
+            outputs/
+            dashboard/data/
+          if-no-files-found: error
