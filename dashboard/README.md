@@ -2,7 +2,7 @@
 
 This folder contains the implemented Streamlit visualisation layer for the Credit Growth Analytics Pipeline.
 
-The dashboard is the final visual output of the ML/AI pipeline. It is designed as the portfolio equivalent of a Power BI dashboard and helps technical and non-technical reviewers understand the model results.
+The dashboard is the final visual output of the ML/AI pipeline. It is designed as the equivalent of a Power BI dashboard and helps technical and non-technical reviewers understand the model results.
 
 ## Launch the dashboard
 
