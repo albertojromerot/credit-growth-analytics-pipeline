@@ -1,6 +1,6 @@
 # Visualisation Layer Draft
 
-The visualisation layer is the portfolio equivalent of a Power BI dashboard.
+The visualisation layer is the asset equivalent of a Power BI dashboard.
 
 The first implementation target is Streamlit because it can be reproduced directly from a public GitHub repository. The same layout can later be translated into Power BI.
 
