@@ -2,7 +2,7 @@
 
 This folder contains the planned visualisation layer for the Credit Growth Analytics Pipeline.
 
-The dashboard is designed as a reproducible, public portfolio equivalent of a Power BI dashboard.
+The dashboard is designed as a reproducible, equivalent of a Power BI dashboard.
 
 Planned pages:
 
