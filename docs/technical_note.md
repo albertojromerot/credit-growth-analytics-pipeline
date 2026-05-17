@@ -151,7 +151,7 @@ The pipeline produces dashboard-ready outputs for technical and non-technical re
 | `dashboard/data/governance_checks.csv` | audit and governance checks |
 | `dashboard/data/segment_summary.csv` | segment-level business interpretation |
 
-The visualisation layer is implemented in Streamlit as a public portfolio equivalent of a Power BI dashboard.
+The visualisation layer is implemented in Streamlit as a public equivalent of a Power BI dashboard.
 
 ---
 
