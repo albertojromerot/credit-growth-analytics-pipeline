@@ -29,4 +29,4 @@ streamlit run dashboard/streamlit_app.py
 
 ## Note
 
-The project uses synthetic data only. It is designed as a public portfolio asset and not as an automated credit approval system.
+The project uses synthetic data only. It is designed as a public asset and not as an automated credit approval system.
