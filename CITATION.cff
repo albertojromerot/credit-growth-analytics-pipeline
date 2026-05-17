@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this portfolio repository, please cite it as below."
+message: "If you use this repository, please cite it as below."
 title: "Credit Growth Analytics Pipeline: Responsible Customer Lifetime Value / Next-Best-Action Model"
 authors:
   - family-names: "Romero Torres"
@@ -17,4 +17,4 @@ keywords:
   - machine learning
   - streamlit
   - financial services
-abstract: "A public portfolio repository demonstrating a reproducible Python pipeline for responsible credit-growth Next-Best-Action analytics using synthetic financial-services data, scikit-learn models, governance checks, GitHub Actions validation, and a Streamlit dashboard."
+abstract: "A public repository demonstrating a reproducible Python pipeline for responsible credit-growth Next-Best-Action analytics using synthetic financial-services data, scikit-learn models, governance checks, GitHub Actions validation, and a Streamlit dashboard."
