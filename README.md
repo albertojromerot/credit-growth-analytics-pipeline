@@ -38,21 +38,29 @@ The dashboard shows:
 4. **Model Performance** — ROC-AUC, PR-AUC, Precision@50, benchmark comparison, and expected-value comparison.
 5. **Governance Monitoring** — data-quality checks, responsible-lending exclusions, and audit signals.
 
-Dashboard screenshots should be stored in:
+---
 
-```text
-docs/assets/screenshots/
-```
+## Dashboard Preview
 
-Planned screenshot files:
+### Main Dashboard
 
-```text
-01_dashboard_landing.png
-02_executive_overview.png
-03_customer_ranking.png
-04_model_performance.png
-05_governance_monitoring.png
-```
+![Main Dashboard](docs/assets/screenshots/01_dashboard_landing.png)
+
+### Executive Overview
+
+![Executive Overview](docs/assets/screenshots/02_executive_overview.png)
+
+### Customer Ranking
+
+![Customer Ranking](docs/assets/screenshots/03_customer_ranking.png)
+
+### Model Performance
+
+![Model Performance](docs/assets/screenshots/04_model_performance.png)
+
+### Governance Monitoring
+
+![Governance Monitoring](docs/assets/screenshots/05_governance_monitoring.png)
 
 ---
 
@@ -325,11 +333,10 @@ The model supports prioritisation and decision intelligence. It is not intended 
 
 ## 13. Status
 
-Current status: reproducible core pipeline, dashboard-ready outputs, Streamlit dashboard, governance checks, model specification, validation guide, and GitHub Actions workflow implemented.
+Current status: reproducible core pipeline, dashboard-ready outputs, Streamlit dashboard, governance checks, model specification, validation guide, GitHub Actions workflow, and dashboard screenshots implemented.
 
 Next steps:
 
-1. capture dashboard screenshots;
-2. upload them to `docs/assets/screenshots/`;
-3. embed the final screenshots in this README;
-4. update CV and LinkedIn once the final repository presentation is complete.
+1. review the dashboard screenshots in the README;
+2. confirm that GitHub Actions validation is green;
+3. update CV and LinkedIn once the final repository presentation is complete.
