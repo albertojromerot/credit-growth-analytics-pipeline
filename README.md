@@ -388,7 +388,7 @@ Implemented:
 12. citation metadata;
 13. Makefile command shortcuts.
 
-Recommended future enhancements:
+Future enhancements:
 
 1. deploy a live Streamlit Community Cloud demo;
 2. add SHAP or permutation-importance explanations;
