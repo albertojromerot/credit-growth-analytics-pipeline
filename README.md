@@ -2,7 +2,7 @@
 
 ## Responsible Customer Lifetime Value / Next-Best-Action Model
 
-This repository is a portfolio-ready analytics project that demonstrates how customer analytics, responsible credit behaviour modelling, and expected value estimation can be combined into an auditable **Next-Best-Action** decision pipeline for financial services.
+This repository is an analytics project that demonstrates how customer analytics, responsible credit behaviour modelling, and expected value estimation can be combined into an auditable **Next-Best-Action** decision pipeline for financial services.
 
 The goal is not only to predict who is likely to convert. The goal is to prioritise customers who are likely to:
 
@@ -32,9 +32,7 @@ Traditional campaign segmentation often relies on static rules such as income ba
 
 ## 2. Portfolio Relevance
 
-This project is designed for London-based finance, analytics, BI, customer analytics, credit risk, and commercial data science roles.
-
-It demonstrates the ability to:
+This project demonstrates the ability to:
 
 - translate a commercial problem into an analytical decision system;
 - build a reproducible Python pipeline;
