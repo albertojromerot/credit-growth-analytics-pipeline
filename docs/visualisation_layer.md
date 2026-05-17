@@ -1,69 +1,133 @@
-# Visualisation Layer Draft
+# Visualisation Layer
 
-The visualisation layer is the asset equivalent of a Power BI dashboard.
+The visualisation layer is implemented in Streamlit and is the final dashboard output of the Credit Growth Analytics Pipeline.
 
-The first implementation target is Streamlit because it can be reproduced directly from a public GitHub repository. The same layout can later be translated into Power BI.
+It is designed as the portfolio equivalent of a Power BI dashboard: a reviewer can inspect the business opportunity, customer ranking, model performance, and governance controls without reading every source-code file.
 
-## Dashboard Pages
+## How to launch the dashboard
 
-### 1. Executive Overview
+Run the pipeline first from the repository root:
 
-Purpose: communicate business value quickly.
+```bash
+python -m src.run_pipeline
+```
 
-Suggested visuals:
+Then launch the dashboard:
 
-- total eligible customers;
+```bash
+python -m streamlit run dashboard/streamlit_app.py
+```
+
+## Implemented dashboard pages
+
+### 1. Main Dashboard
+
+Purpose: provide a fast executive entry point.
+
+Includes:
+
+- latest snapshot;
+- customers scored;
 - Top 50 expected value;
-- action distribution;
-- recommended product mix;
-- benchmark comparison: rule-based vs model-based ranking.
+- Top 50 average conversion probability;
+- Top 50 eligible share;
+- Top 10 recommendations;
+- product mix;
+- priority-score distribution;
+- benchmark comparison;
+- model KPI snapshot;
+- governance check status.
 
-### 2. Customer Ranking
+### 2. Executive Overview
+
+Purpose: communicate business value quickly to non-technical reviewers.
+
+Includes:
+
+- Top 50 expected value;
+- average conversion probability;
+- average responsible-behaviour probability;
+- governance exclusions in the Top 50;
+- recommended-product mix;
+- expected value by customer segment;
+- executive benchmark table;
+- segment summary.
+
+### 3. Customer Ranking
 
 Purpose: make the output advisor-ready.
 
-Suggested visuals:
+Includes:
 
-- ranked customer table;
+- sidebar filters by product and customer segment;
+- eligible-only toggle;
+- rank slider;
+- customer-level ranking table;
 - recommended product;
 - responsible NBA score;
 - `p_conversion`;
 - `p_responsible`;
-- expected value;
+- expected credit value;
 - reason codes;
-- eligibility / exclusion flags.
+- recommended action;
+- score-vs-conversion scatter chart;
+- reason-code frequency chart.
 
-### 3. Model Performance
+### 4. Model Performance
 
 Purpose: show analytical credibility.
 
-Suggested visuals:
+Includes:
 
 - ROC-AUC;
 - PR-AUC;
+- Brier Score;
 - Precision@50;
-- Lift@50;
-- calibration view;
-- comparison against manual segmentation.
+- Precision@100;
+- model KPI table;
+- model-metric comparison chart;
+- targeting benchmark;
+- expected-value comparison.
 
-### 4. Governance Monitoring
+### 5. Governance Monitoring
 
 Purpose: show responsible, auditable modelling.
 
-Suggested visuals:
+Includes:
 
-- missingness summary;
-- duplicate key checks;
+- pass/review counters;
+- data-quality checks;
+- duplicate-key checks;
 - leakage checks;
-- eligibility exclusions;
-- drift indicators;
-- treatment-log completeness.
+- responsible-lending exclusion distribution;
+- Top 50 governance review table;
+- audit notes for future institutional deployment.
 
-## Design Principle
+## Design principle
 
-The dashboard should answer four questions:
+The dashboard answers four questions:
 
 1. Where is the commercial opportunity?
 2. Which customers should be prioritised?
 3. How well does the model perform?
 4. Can the process be trusted and audited?
+
+## Screenshot assets
+
+Screenshots should be saved in:
+
+```text
+docs/assets/screenshots/
+```
+
+Recommended files:
+
+```text
+01_dashboard_landing.png
+02_executive_overview.png
+03_customer_ranking.png
+04_model_performance.png
+05_governance_monitoring.png
+```
+
+After the screenshots are uploaded, they should be embedded in the main `README.md` so that a recruiter can preview the dashboard without running the app locally.
