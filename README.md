@@ -2,6 +2,20 @@
 
 ## Responsible Customer Lifetime Value / Next-Best-Action Model
 
+[![Build: passing](https://img.shields.io/badge/build-passing-brightgreen)](.github/workflows/validate.yml)
+[![Python: 3.11](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![Dashboard: Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b)](dashboard/)
+[![Data: synthetic](https://img.shields.io/badge/data-synthetic-lightgrey)](data/synthetic/)
+[![Use case: responsible credit growth / NBA](https://img.shields.io/badge/use%20case-responsible%20credit%20growth%20%2F%20NBA-informational)](docs/executive_summary.md)
+
+| Status area | Current state |
+|---|---|
+| Build | Passing via GitHub Actions validation |
+| Python | 3.11 |
+| Dashboard | Streamlit |
+| Data | Synthetic financial-services data |
+| Use case | Responsible credit growth / Next-Best-Action |
+
 This repository demonstrates how customer analytics, responsible credit behaviour modelling, and expected value estimation can be combined into an auditable **Next-Best-Action** decision pipeline for financial services.
 
 The goal is not only to predict who is likely to convert. The goal is to prioritise customers who are likely to:
