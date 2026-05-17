@@ -1,6 +1,6 @@
 # Disclaimer
 
-This repository is a public portfolio project for analytics, data science, and financial-services decision-support demonstration purposes.
+This repository is a public project for analytics, data science, and financial-services decision-support demonstration purposes.
 
 ## Synthetic data only
 
