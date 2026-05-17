@@ -69,7 +69,7 @@ Planned checks:
 ## Limitations
 
 - Synthetic data does not represent a real institution.
-- Results are for demonstration and portfolio purposes.
+- Results are for demonstration purposes.
 - Expected value assumptions are simplified.
 - Human review remains required before any customer action.
 
