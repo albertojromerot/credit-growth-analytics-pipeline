@@ -1,0 +1,151 @@
+customer_id,recommendation_month,recommended_action,advisor_action,contacted_flag,accepted_offer_flag,control_group_flag,outcome_1m,outcome_3m
+C001179,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000866,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,accepted,not_converted
+C000102,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,converted
+C000440,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,declined,not_converted
+C000059,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,pending,not_converted
+C001121,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,declined,not_converted
+C000324,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000975,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000412,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,no_response,not_converted
+C000856,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,accepted,not_converted
+C000821,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000045,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,pending,converted
+C000050,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,pending,not_converted
+C000850,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,declined,not_converted
+C000241,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,pending,not_converted
+C000171,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,excluded
+C000524,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,not_converted
+C000766,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,not_converted
+C000839,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,pending,not_converted
+C000424,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,not_converted
+C000381,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,pending,not_converted
+C000610,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,not_converted
+C000677,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,accepted,not_converted
+C000345,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,declined,not_converted
+C000110,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,accepted,converted
+C000278,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000678,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000571,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000359,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,accepted,not_converted
+C000599,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,pending,not_converted
+C000391,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,pending,not_converted
+C000894,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,not_converted
+C000693,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,pending,not_converted
+C000728,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,accepted,not_converted
+C000363,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,declined,not_converted
+C000597,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,accepted,not_converted
+C000428,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000071,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,not_converted
+C000322,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C000653,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C001066,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,pending,not_converted
+C000108,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,excluded
+C001109,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000356,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,converted
+C000951,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,pending,not_converted
+C000343,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,declined,not_converted
+C000355,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,pending,excluded
+C000024,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000044,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000244,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000738,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,not_converted
+C001136,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,converted
+C000368,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000164,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,accepted,not_converted
+C001116,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000333,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,no_response,not_converted
+C000989,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,accepted,not_converted
+C001173,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C001002,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000378,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000310,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000156,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,not_converted
+C000211,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,converted
+C000087,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000169,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,no_response,not_converted
+C000995,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,converted
+C000052,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,no_response,excluded
+C000439,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,declined,not_converted
+C000550,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,accepted,not_converted
+C000491,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,pending,converted
+C000426,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000136,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,excluded
+C001192,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000055,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000079,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C000431,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,no_response,not_converted
+C000185,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000057,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,declined,not_converted
+C000943,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,not_converted
+C000851,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C001164,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,not_converted
+C000219,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,not_converted
+C000845,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000114,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,excluded
+C000549,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,accepted,not_converted
+C001019,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,converted
+C001073,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000175,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,not_converted
+C001023,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000616,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000514,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,pending,converted
+C000462,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000287,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000382,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,not_converted
+C001008,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000671,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,not_converted
+C000535,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,converted
+C000910,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,converted
+C000293,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,declined,not_converted
+C000124,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,accepted,not_converted
+C000583,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,converted
+C000141,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,declined,converted
+C000736,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,declined,converted
+C000082,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,declined,not_converted
+C000882,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,declined,not_converted
+C000740,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,excluded
+C001102,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C000909,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,no_response,converted
+C001167,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,not_converted
+C000937,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000372,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000890,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,accepted,excluded
+C000157,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,not_converted
+C000992,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,accepted,not_converted
+C000622,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,converted
+C001038,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,converted
+C000245,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,excluded
+C000159,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,converted
+C000746,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,declined,not_converted
+C000193,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,accepted,not_converted
+C000534,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,declined,not_converted
+C000904,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C001004,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,converted
+C001070,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000414,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,pending,not_converted
+C001187,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,not_converted
+C000328,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,pending,not_converted
+C000129,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000695,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,converted
+C000631,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,converted
+C000275,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,accepted,not_converted
+C001148,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,not_converted
+C000309,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,converted
+C000234,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,converted
+C001048,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,no_response,converted
+C000623,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,0,0,no_response,converted
+C000644,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C000479,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,no_response,converted
+C000472,2025-06-30,CONTROL_NO_CONTACT,No contact,0,1,1,declined,excluded
+C000926,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C001098,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,declined,excluded
+C000627,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,1,0,pending,not_converted
+C000395,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,1,0,no_response,not_converted
+C000637,2025-06-30,C_DIGITAL_ONBOARDING_NUDGE,Contacted,1,0,0,no_response,excluded
+C000768,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C000533,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,pending,not_converted
+C000718,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,no_response,not_converted
+C000667,2025-06-30,CONTROL_NO_CONTACT,No contact,0,0,1,pending,not_converted
+C000598,2025-06-30,B_VALUE_AND_BENEFITS_MESSAGE,Contacted,1,0,0,accepted,not_converted
+C000482,2025-06-30,A_AFFORDABILITY_REVIEW,Contacted,1,1,0,no_response,converted

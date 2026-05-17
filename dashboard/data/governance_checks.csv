@@ -1,0 +1,7 @@
+check_name,status,value,notes
+unique_customer_month_key,pass,0,Duplicated customer-month rows in feature matrix.
+expected_feature_columns_present,pass,0,All expected features present.
+feature_name_leakage_scan,pass,0,No leakage-like feature names detected.
+high_missingness_features,pass,0,No feature has missingness above 30%.
+top_50_governance_exclusions,pass,0,Number of Top 50 records excluded by responsible-lending guardrails.
+synthetic_product_catalogue_present,pass,1,Synthetic expected-value product assumptions file.

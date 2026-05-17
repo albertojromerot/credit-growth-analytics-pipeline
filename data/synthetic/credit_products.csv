@@ -1,0 +1,5 @@
+product_id,product_name,average_loan_amount,term_months,annual_margin_rate,funding_cost_rate,operating_cost_rate,expected_loss_rate,min_income_band_score,expected_gross_margin,expected_funding_cost,expected_operating_cost,expected_loss,expected_value
+P001,Responsible Personal Loan,7500,30,0.105,0.048,0.018,0.028,2,1968.75,900.0,135.0,210.0,723.75
+P002,Payroll-linked Credit,10000,36,0.095,0.044,0.014,0.02,2,2850.0,1320.0,140.0,200.0,1190.0
+P003,Green Home Improvement Loan,15000,48,0.09,0.045,0.016,0.024,3,5400.0,2700.0,240.0,360.0,2100.0
+P004,Education Credit Line,5000,24,0.085,0.043,0.017,0.018,1,850.0000000000001,429.99999999999994,85.0,90.0,245.0

@@ -1,0 +1,4 @@
+approach,top_n,precision_at_50_conversion,precision_at_50_responsible_conversion,expected_value_captured,eligible_share
+Manual rule-based segmentation,50,0.2,0.16,59500.0,1.0
+Conversion-only model,50,0.26,0.2,55196.25,0.82
+Responsible NBA model,50,0.24,0.22,59500.0,1.0

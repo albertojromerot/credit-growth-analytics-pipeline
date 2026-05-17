@@ -1,0 +1,1201 @@
+customer_id,age,income_band,employment_type,region,tenure_months,digital_engagement_score,income_band_score,annual_income,customer_segment
+C000001,27,Upper-middle,Salaried,Midlands,119,0.5104719992547346,4,43099.0,High-value
+C000002,29,Lower-middle,Salaried,North West,78,0.47380507573691,2,28724.0,Mass market
+C000003,68,Upper-middle,Salaried,South East,8,0.22322637741134263,4,48596.0,New customer
+C000004,61,Middle,Salaried,London,5,0.18679730019889748,3,39438.0,New customer
+C000005,34,Low,Salaried,London,42,0.6408031926074089,1,19741.0,Mass market
+C000006,35,High,Pensioner,Wales,44,0.7820188732514344,5,130021.0,Digital-first
+C000007,25,Upper-middle,Salaried,Midlands,130,0.5195396441751299,4,51306.0,High-value
+C000008,18,Upper-middle,Salaried,London,91,0.8597973931272165,4,60509.0,Digital-first
+C000009,38,Low,Independent,South East,179,0.6547403916769282,1,15916.0,Mass market
+C000010,27,Middle,Salaried,South West,98,0.2084379648784845,3,36154.0,Mass market
+C000011,38,Lower-middle,Contractor,Midlands,162,0.4617466668037006,2,24797.0,Mass market
+C000012,20,Upper-middle,Independent,Midlands,100,0.33292261179123556,4,70175.0,High-value
+C000013,30,Middle,Salaried,South West,66,0.5148530635650878,3,38720.0,Mass market
+C000014,41,Upper-middle,Independent,Midlands,129,0.4451364801330335,4,84313.0,High-value
+C000015,43,Middle,Independent,Midlands,82,0.6299842871949684,3,44795.0,Mass market
+C000016,44,Lower-middle,Independent,London,51,0.6112101212456303,2,23475.0,Mass market
+C000017,23,Middle,Contractor,London,86,0.28176298267867467,3,39536.0,Mass market
+C000018,49,Low,Independent,Wales,120,0.44159190696702744,1,15691.0,Mass market
+C000019,29,Upper-middle,Independent,Midlands,69,0.5085096018830455,4,69937.0,High-value
+C000020,47,Middle,Salaried,South East,127,0.4833782049265217,3,30987.0,Mass market
+C000021,39,Upper-middle,Independent,Midlands,176,0.6490354163180787,4,48698.0,High-value
+C000022,22,Lower-middle,Pensioner,London,75,0.21463175831407955,2,25350.0,Mass market
+C000023,35,High,Independent,South West,55,0.25098818918894206,5,105381.0,High-value
+C000024,43,Upper-middle,Independent,London,74,0.26038131420371535,4,74232.0,High-value
+C000025,46,Upper-middle,Salaried,South West,151,0.653384460342124,4,75695.0,High-value
+C000026,37,Lower-middle,Independent,Midlands,34,0.6449957534652041,2,30374.0,Mass market
+C000027,57,Middle,Pensioner,London,175,0.27590599733576454,3,41443.0,Mass market
+C000028,51,Low,Salaried,London,76,0.41932284263384567,1,20289.0,Mass market
+C000029,36,Low,Salaried,South West,151,0.14675893035041548,1,14704.0,Mass market
+C000030,48,Middle,Salaried,London,142,0.1686489870273776,3,29604.0,Mass market
+C000031,62,Middle,Salaried,London,141,0.2768084121910655,3,44934.0,Mature relationship
+C000032,63,High,Salaried,North West,163,0.646524307694932,5,79714.0,High-value
+C000033,24,Lower-middle,Salaried,South East,35,0.5535031896103696,2,27707.0,Mass market
+C000034,28,Lower-middle,Salaried,South East,108,0.2647128998011267,2,28536.0,Mass market
+C000035,57,Middle,Independent,London,20,0.3023094814276558,3,43667.0,Mass market
+C000036,26,Lower-middle,Independent,South West,55,0.1965947269328091,2,32201.0,Mass market
+C000037,23,Low,Independent,London,10,0.2957009488396298,1,20396.0,New customer
+C000038,33,Middle,Independent,London,123,0.3411840510448938,3,43310.0,Mass market
+C000039,44,Lower-middle,Independent,London,110,0.48816572413002773,2,26020.0,Mass market
+C000040,38,Middle,Independent,London,134,0.3894678172624131,3,42724.0,Mass market
+C000041,31,Lower-middle,Independent,London,34,0.07620497515137543,2,25329.0,Mass market
+C000042,31,Upper-middle,Salaried,London,61,0.20106150356964536,4,60051.0,High-value
+C000043,30,Middle,Independent,London,122,0.6545706714887759,3,59594.0,Mass market
+C000044,28,Lower-middle,Salaried,South East,149,0.45281396789675965,2,28816.0,Mass market
+C000045,66,Upper-middle,Salaried,South West,159,0.3813567000106963,4,66466.0,High-value
+C000046,43,Upper-middle,Salaried,London,16,0.5081220272746201,4,55002.0,High-value
+C000047,50,Lower-middle,Contractor,London,74,0.3117680037417709,2,32570.0,Mass market
+C000048,33,Lower-middle,Independent,Scotland,4,0.6303241782518471,2,31406.0,New customer
+C000049,37,Middle,Salaried,South West,147,0.4774132670455807,3,47157.0,Mass market
+C000050,30,Low,Independent,Midlands,24,0.3227409705621231,1,18619.0,Mass market
+C000051,18,Lower-middle,Salaried,London,148,0.8281486931401769,2,32633.0,Digital-first
+C000052,22,Low,Independent,South East,30,0.4167923129890032,1,21662.0,Mass market
+C000053,18,Upper-middle,Contractor,London,5,0.6582175649555662,4,64808.0,New customer
+C000054,18,Middle,Independent,London,158,0.631904304426103,3,41230.0,Mass market
+C000055,25,Middle,Independent,South East,80,0.2220619704529917,3,48012.0,Mass market
+C000056,55,Upper-middle,Salaried,Midlands,78,0.3127593363538239,4,53031.0,High-value
+C000057,38,Middle,Salaried,South East,117,0.7668441043871925,3,37175.0,Digital-first
+C000058,54,Middle,Contractor,Midlands,51,0.3452306576906496,3,41642.0,Mass market
+C000059,44,Low,Independent,London,125,0.46506390147922577,1,12985.0,Mass market
+C000060,48,Low,Salaried,South East,78,0.3032743536868729,1,20383.0,Mass market
+C000061,28,Middle,Salaried,North West,51,0.5463193706899175,3,35529.0,Mass market
+C000062,45,Middle,Salaried,South West,72,0.30372299874020114,3,38832.0,Mass market
+C000063,48,Middle,Salaried,London,4,0.6464215745575155,3,40567.0,New customer
+C000064,32,Upper-middle,Salaried,Midlands,56,0.5063216897359801,4,62390.0,High-value
+C000065,46,Middle,Salaried,London,107,0.5434917879998332,3,39691.0,Mass market
+C000066,46,Middle,Pensioner,London,27,0.6369193586475049,3,41547.0,Mass market
+C000067,32,Middle,Salaried,North West,23,0.4672242584970812,3,41599.0,Mass market
+C000068,26,Lower-middle,Salaried,London,119,0.36334310181074136,2,25997.0,Mass market
+C000069,25,Low,Salaried,South East,78,0.1645741301583663,1,15773.0,Mass market
+C000070,40,Lower-middle,Salaried,South East,27,0.6387258948862586,2,32845.0,Mass market
+C000071,43,Lower-middle,Contractor,London,135,0.657174005143712,2,18572.0,Mass market
+C000072,29,Lower-middle,Salaried,London,140,0.8183820347189834,2,27078.0,Digital-first
+C000073,39,Upper-middle,Independent,South East,9,0.5501411310475727,4,57349.0,New customer
+C000074,46,Lower-middle,Contractor,Scotland,38,0.22985242455632324,2,29876.0,Mass market
+C000075,46,Low,Salaried,Midlands,68,0.7372715301633032,1,13812.0,Digital-first
+C000076,58,Lower-middle,Independent,South East,132,0.3540379582538201,2,25761.0,Mature relationship
+C000077,54,Lower-middle,Pensioner,London,16,0.31564565491088886,2,27541.0,Mass market
+C000078,27,Middle,Salaried,Midlands,145,0.5407696378464498,3,49191.0,Mass market
+C000079,59,Middle,Salaried,London,59,0.27014536104836817,3,44232.0,Mature relationship
+C000080,33,Upper-middle,Contractor,Midlands,25,0.5519505836767387,4,50260.0,High-value
+C000081,52,Middle,Contractor,North West,155,0.3580327910024851,3,38724.0,Mass market
+C000082,40,Lower-middle,Salaried,South East,18,0.6898561443906212,2,31970.0,Digital-first
+C000083,34,Upper-middle,Salaried,London,25,0.5762517086609678,4,50088.0,High-value
+C000084,18,Lower-middle,Salaried,London,171,0.17549334739302244,2,27648.0,Mass market
+C000085,37,Low,Contractor,London,94,0.621669756085673,1,17974.0,Mass market
+C000086,20,Low,Salaried,South East,84,0.3630531215096177,1,16889.0,Mass market
+C000087,51,Middle,Salaried,South West,124,0.86187137014394,3,60115.0,Digital-first
+C000088,57,Middle,Independent,London,114,0.3643676404235092,3,39226.0,Mass market
+C000089,29,Lower-middle,Pensioner,Midlands,111,0.5623595024898229,2,30015.0,Mass market
+C000090,43,Middle,Contractor,North West,7,0.3880556793467804,3,36850.0,New customer
+C000091,30,Low,Salaried,London,100,0.3953160290018746,1,19520.0,Mass market
+C000092,31,Middle,Salaried,London,52,0.3865693466007593,3,47852.0,Mass market
+C000093,48,Middle,Pensioner,London,145,0.7095052953847883,3,38049.0,Digital-first
+C000094,39,Lower-middle,Pensioner,Midlands,92,0.37628639035241307,2,27755.0,Mass market
+C000095,60,Lower-middle,Salaried,South East,24,0.2578474977774795,2,23989.0,Mature relationship
+C000096,33,Middle,Independent,North West,159,0.5958314698185964,3,34310.0,Mass market
+C000097,51,Lower-middle,Salaried,South West,53,0.32446489699586056,2,32645.0,Mass market
+C000098,40,Low,Salaried,North West,51,0.6813708264219499,1,16404.0,Digital-first
+C000099,49,Low,Salaried,Wales,168,0.5609914225469373,1,11049.0,Mass market
+C000100,34,High,Salaried,North West,140,0.5349919795146406,5,121833.0,High-value
+C000101,38,Upper-middle,Salaried,South West,155,0.5779309996797815,4,54043.0,High-value
+C000102,38,Middle,Contractor,South West,120,0.7301842290849184,3,40344.0,Digital-first
+C000103,29,Lower-middle,Salaried,North West,164,0.503544671410868,2,35351.0,Mass market
+C000104,47,High,Salaried,South West,23,0.3587414150749948,5,92846.0,High-value
+C000105,47,Upper-middle,Salaried,Scotland,109,0.6988799021327019,4,60380.0,Digital-first
+C000106,46,Middle,Salaried,South East,54,0.5694051747256017,3,33747.0,Mass market
+C000107,57,Middle,Salaried,Midlands,73,0.5156632951685228,3,31014.0,Mass market
+C000108,56,Lower-middle,Salaried,South East,45,0.16106901167059987,2,27255.0,Mass market
+C000109,35,Low,Salaried,South West,39,0.5749583668934327,1,19045.0,Mass market
+C000110,43,Upper-middle,Independent,South East,81,0.4106382330111229,4,65031.0,High-value
+C000111,32,Middle,Contractor,South West,165,0.0722350719652475,3,38766.0,Mass market
+C000112,39,Lower-middle,Salaried,North West,115,0.03602325623794718,2,28091.0,Mass market
+C000113,32,Lower-middle,Contractor,Wales,64,0.30781190746554304,2,19769.0,Mass market
+C000114,58,Middle,Contractor,London,79,0.08005175674539784,3,45092.0,Mature relationship
+C000115,43,Lower-middle,Contractor,North West,96,0.4516796330462569,2,28723.0,Mass market
+C000116,36,Upper-middle,Independent,North West,46,0.17818770591920743,4,81579.0,High-value
+C000117,53,Upper-middle,Independent,Scotland,95,0.34398723308135043,4,62074.0,High-value
+C000118,18,Middle,Independent,Scotland,126,0.40094146919065704,3,35665.0,Mass market
+C000119,18,Lower-middle,Independent,Midlands,46,0.21554924786730356,2,27773.0,Mass market
+C000120,49,Middle,Salaried,Midlands,106,0.3728378359117048,3,39797.0,Mass market
+C000121,40,Middle,Pensioner,London,128,0.35648016703553964,3,44921.0,Mass market
+C000122,42,Middle,Independent,Wales,94,0.6291551611401781,3,42181.0,Mass market
+C000123,23,Low,Independent,London,54,0.7491118168610802,1,14371.0,Digital-first
+C000124,39,Lower-middle,Salaried,North West,101,0.6761612085911111,2,20672.0,Mass market
+C000125,63,Low,Salaried,North West,143,0.22003998387514478,1,18757.0,Mature relationship
+C000126,49,Middle,Salaried,South East,42,0.6441632156195333,3,51295.0,Mass market
+C000127,41,Lower-middle,Salaried,London,104,0.678239574537935,2,28355.0,Mass market
+C000128,34,Low,Salaried,London,123,0.09177279591413229,1,20342.0,Mass market
+C000129,34,Low,Salaried,South West,59,0.35600124399623134,1,20917.0,Mass market
+C000130,18,Middle,Salaried,South East,71,0.59862606472601,3,43793.0,Mass market
+C000131,42,Lower-middle,Salaried,London,160,0.33192978697049,2,24351.0,Mass market
+C000132,49,Upper-middle,Salaried,North West,67,0.626214098592815,4,63937.0,High-value
+C000133,20,Middle,Pensioner,London,108,0.517413592047218,3,50112.0,Mass market
+C000134,31,Lower-middle,Salaried,South West,29,0.5696166690103224,2,30374.0,Mass market
+C000135,25,Middle,Salaried,London,166,0.7965686633999683,3,47028.0,Digital-first
+C000136,27,Low,Salaried,London,108,0.6492610711470278,1,16668.0,Mass market
+C000137,40,High,Salaried,London,137,0.2055869598243947,5,91924.0,High-value
+C000138,18,Middle,Salaried,South East,109,0.2792780684806769,3,41202.0,Mass market
+C000139,46,Upper-middle,Independent,South East,65,0.5228847326245141,4,61491.0,High-value
+C000140,48,Low,Pensioner,North West,63,0.25226308119181706,1,21364.0,Mass market
+C000141,36,Middle,Salaried,South East,127,0.5028612720395264,3,26227.0,Mass market
+C000142,18,Middle,Independent,South East,155,0.49867086336130223,3,42205.0,Mass market
+C000143,27,High,Salaried,London,25,0.19349965189031937,5,93792.0,High-value
+C000144,54,Middle,Salaried,London,152,0.44409869841706784,3,32784.0,Mass market
+C000145,18,Middle,Salaried,Scotland,149,0.3014428307809536,3,46514.0,Mass market
+C000146,35,Lower-middle,Salaried,London,22,0.3609732929203095,2,24754.0,Mass market
+C000147,25,Lower-middle,Independent,Wales,22,0.48253146643579986,2,26400.0,Mass market
+C000148,49,Middle,Independent,London,126,0.6897461145228819,3,54424.0,Digital-first
+C000149,31,Lower-middle,Independent,London,152,0.1990303379228701,2,32525.0,Mass market
+C000150,44,Low,Salaried,London,72,0.6190606451824194,1,19655.0,Mass market
+C000151,46,Upper-middle,Independent,London,116,0.5049385054142936,4,65777.0,High-value
+C000152,61,Upper-middle,Salaried,North West,179,0.4573674528296299,4,60366.0,High-value
+C000153,37,Low,Salaried,South East,60,0.3529666401631107,1,23758.0,Mass market
+C000154,44,Middle,Salaried,London,42,0.4976308732230371,3,47391.0,Mass market
+C000155,21,Low,Independent,Midlands,178,0.20874932645126373,1,15841.0,Mass market
+C000156,53,Middle,Pensioner,Midlands,52,0.33957241333058374,3,32591.0,Mass market
+C000157,30,Lower-middle,Salaried,Scotland,86,0.5933357977799493,2,30539.0,Mass market
+C000158,32,Middle,Salaried,Wales,81,0.5119836501001405,3,41625.0,Mass market
+C000159,39,Middle,Independent,North West,95,0.5482443185501502,3,32398.0,Mass market
+C000160,20,Upper-middle,Contractor,South West,50,0.8981821297393817,4,66252.0,Digital-first
+C000161,42,Low,Salaried,North West,123,0.3296148250858407,1,17225.0,Mass market
+C000162,51,Upper-middle,Independent,South East,125,0.5609495134125576,4,67264.0,High-value
+C000163,43,Lower-middle,Independent,North West,38,0.28314728074285234,2,29979.0,Mass market
+C000164,20,Low,Contractor,London,88,0.79911573570669,1,16248.0,Digital-first
+C000165,38,Middle,Salaried,North West,13,0.3724058529498394,3,46253.0,Mass market
+C000166,48,Lower-middle,Contractor,Wales,42,0.4205837852776958,2,25769.0,Mass market
+C000167,18,Upper-middle,Salaried,London,177,0.13128024848364905,4,57706.0,High-value
+C000168,26,Upper-middle,Contractor,South West,92,0.5171035997515816,4,56720.0,High-value
+C000169,50,Lower-middle,Salaried,Scotland,113,0.18710259721673236,2,33067.0,Mass market
+C000170,42,High,Salaried,London,160,0.8060449498308809,5,90735.0,Digital-first
+C000171,44,Lower-middle,Salaried,South East,129,0.387509205576104,2,34149.0,Mass market
+C000172,61,Middle,Salaried,Scotland,143,0.23831013015300376,3,53985.0,Mature relationship
+C000173,45,Lower-middle,Salaried,Wales,129,0.4482792440179376,2,24691.0,Mass market
+C000174,47,High,Salaried,London,91,0.3206440780836561,5,50601.0,High-value
+C000175,72,Lower-middle,Salaried,South East,114,0.04931646211972493,2,32679.0,Mature relationship
+C000176,36,Low,Salaried,North West,54,0.4255625387711772,1,17015.0,Mass market
+C000177,29,Lower-middle,Independent,London,160,0.2271509593552001,2,24119.0,Mass market
+C000178,44,High,Contractor,London,34,0.43202474444340827,5,86051.0,High-value
+C000179,44,Upper-middle,Independent,London,159,0.7337309388021838,4,57885.0,Digital-first
+C000180,33,Middle,Salaried,London,158,0.7035458516909754,3,50717.0,Digital-first
+C000181,27,Upper-middle,Salaried,Midlands,28,0.6993468294531769,4,63586.0,Digital-first
+C000182,67,Upper-middle,Contractor,Midlands,128,0.44531058692644904,4,74733.0,High-value
+C000183,43,Middle,Salaried,Midlands,178,0.4366453289176946,3,45321.0,Mass market
+C000184,30,Lower-middle,Salaried,North West,104,0.1796587537707477,2,26615.0,Mass market
+C000185,50,Upper-middle,Pensioner,South East,63,0.5191106251771614,4,58128.0,High-value
+C000186,38,Middle,Pensioner,London,158,0.6948770559296356,3,45774.0,Digital-first
+C000187,36,Lower-middle,Salaried,London,93,0.5136814209298245,2,31676.0,Mass market
+C000188,46,Low,Independent,London,24,0.8793291666358758,1,20871.0,Digital-first
+C000189,23,Middle,Salaried,London,47,0.43285484670759444,3,40242.0,Mass market
+C000190,43,Lower-middle,Independent,London,123,0.686063812567446,2,28785.0,Digital-first
+C000191,62,High,Salaried,London,83,0.3270371684315854,5,103877.0,High-value
+C000192,45,Lower-middle,Salaried,London,41,0.3665254497931166,2,26280.0,Mass market
+C000193,34,Low,Independent,Midlands,144,0.3135192438725919,1,14731.0,Mass market
+C000194,33,Upper-middle,Salaried,Midlands,24,0.24770620966512302,4,54002.0,High-value
+C000195,34,Low,Independent,Scotland,41,0.7312669645246167,1,17306.0,Digital-first
+C000196,36,Lower-middle,Salaried,North West,85,0.15867771831076574,2,30967.0,Mass market
+C000197,34,Middle,Contractor,Midlands,9,0.21295687758684068,3,50460.0,New customer
+C000198,50,Upper-middle,Contractor,London,71,0.8185599759844334,4,48548.0,Digital-first
+C000199,18,Lower-middle,Salaried,Midlands,164,0.6792969612549679,2,25324.0,Mass market
+C000200,49,Lower-middle,Independent,London,169,0.32433524124706,2,26397.0,Mass market
+C000201,34,Upper-middle,Salaried,South East,157,0.5246314847528667,4,69884.0,High-value
+C000202,44,High,Salaried,South East,60,0.3706571179300281,5,86973.0,High-value
+C000203,25,Middle,Salaried,South East,14,0.6432413025399866,3,39112.0,Mass market
+C000204,55,Low,Contractor,London,147,0.2872058568278298,1,13933.0,Mass market
+C000205,54,Low,Contractor,North West,69,0.229603480436458,1,19392.0,Mass market
+C000206,51,Lower-middle,Contractor,South West,135,0.3595202985692017,2,27277.0,Mass market
+C000207,21,Low,Contractor,North West,24,0.7324200387323005,1,16116.0,Digital-first
+C000208,49,Middle,Pensioner,Midlands,121,0.15242362940290324,3,40256.0,Mass market
+C000209,44,Low,Salaried,Midlands,106,0.6297994822109786,1,21246.0,Mass market
+C000210,20,Middle,Pensioner,London,165,0.38248632332697646,3,35247.0,Mass market
+C000211,39,Middle,Salaried,North West,21,0.28814636920597736,3,36344.0,Mass market
+C000212,43,Middle,Salaried,Midlands,75,0.7271500866648009,3,50415.0,Digital-first
+C000213,46,Lower-middle,Salaried,London,178,0.21540233209181822,2,28339.0,Mass market
+C000214,41,Upper-middle,Salaried,London,71,0.584666351337342,4,68644.0,High-value
+C000215,42,Middle,Salaried,Scotland,119,0.739612745565959,3,44700.0,Digital-first
+C000216,57,Middle,Salaried,Midlands,31,0.5188253366630866,3,41763.0,Mass market
+C000217,54,Low,Salaried,South East,131,0.8907803431211776,1,16997.0,Digital-first
+C000218,18,Low,Salaried,Midlands,51,0.20943273895910317,1,20395.0,Mass market
+C000219,35,Upper-middle,Contractor,South East,104,0.2478905355925898,4,73530.0,High-value
+C000220,37,Lower-middle,Independent,South East,158,0.5543366920356139,2,32857.0,Mass market
+C000221,18,Lower-middle,Salaried,London,120,0.6832465485324408,2,22689.0,Digital-first
+C000222,40,Middle,Salaried,South East,86,0.786092909813262,3,50769.0,Digital-first
+C000223,54,Middle,Salaried,North West,36,0.7926600626922644,3,39595.0,Digital-first
+C000224,26,High,Salaried,London,63,0.5595730954699372,5,83524.0,High-value
+C000225,43,Lower-middle,Contractor,North West,153,0.7070069153766856,2,27241.0,Digital-first
+C000226,28,Upper-middle,Salaried,London,41,0.14520215995194788,4,70245.0,High-value
+C000227,31,Low,Independent,North West,119,0.24434195058899044,1,19557.0,Mass market
+C000228,57,Middle,Independent,Midlands,88,0.15337753070077376,3,40284.0,Mass market
+C000229,32,Middle,Salaried,Midlands,59,0.4665715332468889,3,47629.0,Mass market
+C000230,45,Low,Contractor,Midlands,129,0.5043987324533642,1,18403.0,Mass market
+C000231,18,Low,Salaried,Scotland,67,0.20592290486111023,1,16350.0,Mass market
+C000232,61,Lower-middle,Contractor,South East,53,0.5591278972913201,2,24828.0,Mature relationship
+C000233,46,High,Independent,North West,96,0.3768962104826625,5,101236.0,High-value
+C000234,37,Middle,Independent,North West,137,0.4307243167556676,3,41445.0,Mass market
+C000235,46,High,Independent,London,155,0.5384443224555473,5,74092.0,High-value
+C000236,22,Upper-middle,Contractor,London,114,0.44844946613456266,4,70404.0,High-value
+C000237,53,Middle,Pensioner,South East,120,0.42932421868889475,3,38773.0,Mass market
+C000238,35,Upper-middle,Salaried,London,142,0.14167615219963153,4,77794.0,High-value
+C000239,37,Low,Contractor,South East,50,0.18093911213656683,1,13959.0,Mass market
+C000240,33,Low,Independent,South East,47,0.12392482538104892,1,17480.0,Mass market
+C000241,32,Upper-middle,Salaried,Midlands,88,0.2568280592047411,4,55056.0,High-value
+C000242,47,Upper-middle,Contractor,London,114,0.6738962687752049,4,52324.0,High-value
+C000243,42,Lower-middle,Salaried,South West,117,0.29969298021105495,2,25819.0,Mass market
+C000244,47,Middle,Salaried,South East,30,0.36428094476755113,3,53898.0,Mass market
+C000245,39,Middle,Salaried,North West,141,0.5176532567968861,3,42963.0,Mass market
+C000246,45,Upper-middle,Salaried,London,67,0.41561080826666635,4,54146.0,High-value
+C000247,34,Middle,Contractor,South East,158,0.30799795532544916,3,29712.0,Mass market
+C000248,66,Lower-middle,Salaried,London,131,0.5056525044875342,2,20288.0,Mature relationship
+C000249,20,Lower-middle,Salaried,Midlands,176,0.49278493529354006,2,25597.0,Mass market
+C000250,54,Lower-middle,Salaried,South East,114,0.6137872477104586,2,25161.0,Mass market
+C000251,55,Middle,Salaried,Scotland,96,0.3158027272135961,3,40494.0,Mass market
+C000252,29,Upper-middle,Contractor,London,36,0.4168358957085882,4,39460.0,High-value
+C000253,66,Middle,Contractor,Midlands,73,0.3779008983374906,3,41384.0,Mature relationship
+C000254,51,Lower-middle,Salaried,London,154,0.26294224787870957,2,32604.0,Mass market
+C000255,51,Lower-middle,Salaried,Midlands,70,0.0643096332227926,2,35270.0,Mass market
+C000256,39,Middle,Salaried,South East,12,0.5150903750918785,3,29269.0,Mass market
+C000257,36,Upper-middle,Independent,South East,46,0.6970357329840493,4,54050.0,Digital-first
+C000258,36,Low,Salaried,London,108,0.4977587086872792,1,15540.0,Mass market
+C000259,44,Low,Salaried,London,114,0.40671698417290547,1,18420.0,Mass market
+C000260,56,Middle,Salaried,London,177,0.2779790104182888,3,33803.0,Mass market
+C000261,41,Low,Independent,Wales,168,0.6871177136102565,1,22845.0,Digital-first
+C000262,28,Upper-middle,Salaried,South East,97,0.11717474271948286,4,62432.0,High-value
+C000263,49,Lower-middle,Salaried,London,101,0.6643190967361313,2,27448.0,Mass market
+C000264,50,Low,Contractor,Scotland,144,0.7003968565519463,1,22587.0,Digital-first
+C000265,47,Upper-middle,Independent,London,11,0.3982702107514336,4,61841.0,New customer
+C000266,48,Lower-middle,Salaried,South East,108,0.24909820008776992,2,29793.0,Mass market
+C000267,36,Lower-middle,Contractor,North West,86,0.5529003079756104,2,24636.0,Mass market
+C000268,28,Low,Contractor,Scotland,141,0.5616574430845716,1,14053.0,Mass market
+C000269,29,Low,Salaried,North West,144,0.4939235544111196,1,16242.0,Mass market
+C000270,19,Low,Independent,South East,119,0.11877249229739126,1,24298.0,Mass market
+C000271,42,Low,Salaried,Wales,119,0.7094618527864751,1,19823.0,Digital-first
+C000272,38,Lower-middle,Independent,London,125,0.3582858278354136,2,29230.0,Mass market
+C000273,34,Low,Salaried,Wales,105,0.5770460173175789,1,15188.0,Mass market
+C000274,18,Middle,Independent,South West,43,0.08450545895702839,3,48124.0,Mass market
+C000275,24,Middle,Salaried,Scotland,53,0.12913891209873984,3,32876.0,Mass market
+C000276,52,Lower-middle,Salaried,London,134,0.17867700653455768,2,20980.0,Mass market
+C000277,31,Lower-middle,Pensioner,London,112,0.615309244793932,2,25496.0,Mass market
+C000278,43,Middle,Salaried,Midlands,45,0.7087358479055008,3,55134.0,Digital-first
+C000279,22,Upper-middle,Contractor,South East,158,0.11894291189453363,4,80827.0,High-value
+C000280,56,Upper-middle,Pensioner,South East,176,0.49434274306957643,4,57524.0,High-value
+C000281,37,Low,Contractor,Scotland,113,0.7380733530778648,1,16058.0,Digital-first
+C000282,42,Lower-middle,Salaried,Midlands,43,0.0743834940439449,2,20651.0,Mass market
+C000283,67,Lower-middle,Contractor,London,169,0.7072868924158257,2,28350.0,Digital-first
+C000284,57,Lower-middle,Salaried,South East,44,0.031848365481451216,2,28726.0,Mass market
+C000285,35,Middle,Salaried,London,79,0.41420823010650965,3,47306.0,Mass market
+C000286,32,Lower-middle,Contractor,London,154,0.29014380013148505,2,32080.0,Mass market
+C000287,35,Low,Independent,London,95,0.3626260452562903,1,17431.0,Mass market
+C000288,45,Lower-middle,Salaried,South West,46,0.4704419753625795,2,30491.0,Mass market
+C000289,38,Middle,Salaried,North West,17,0.6207306106515964,3,37292.0,Mass market
+C000290,34,Low,Contractor,Midlands,66,0.7359722149762403,1,19547.0,Digital-first
+C000291,57,Upper-middle,Independent,South East,121,0.6150785003604513,4,56968.0,High-value
+C000292,38,Low,Salaried,Midlands,129,0.4071637651698606,1,19323.0,Mass market
+C000293,67,Upper-middle,Contractor,South West,42,0.21546682703189096,4,65755.0,High-value
+C000294,40,Low,Salaried,South West,31,0.36882156073183325,1,18198.0,Mass market
+C000295,60,Upper-middle,Salaried,Midlands,127,0.24260892704627843,4,69882.0,High-value
+C000296,43,Upper-middle,Independent,South West,31,0.5246779482715986,4,46422.0,High-value
+C000297,51,High,Pensioner,South East,14,0.12959742608650343,5,78813.0,High-value
+C000298,30,Upper-middle,Salaried,South East,89,0.3622126131836581,4,59321.0,High-value
+C000299,29,Upper-middle,Salaried,South West,104,0.28207493309771436,4,47683.0,High-value
+C000300,45,Middle,Salaried,South East,46,0.5509711262747625,3,39266.0,Mass market
+C000301,51,Upper-middle,Contractor,South East,40,0.7641591561612765,4,58284.0,Digital-first
+C000302,39,Low,Salaried,London,44,0.45822200141239033,1,21772.0,Mass market
+C000303,24,Middle,Salaried,South East,63,0.33807729248304097,3,42958.0,Mass market
+C000304,23,Middle,Pensioner,Midlands,4,0.7651664976348492,3,48918.0,New customer
+C000305,22,Upper-middle,Salaried,Midlands,5,0.43164977741657723,4,64993.0,New customer
+C000306,18,Middle,Salaried,South East,68,0.25908527709214624,3,38400.0,Mass market
+C000307,40,Lower-middle,Salaried,London,6,0.20624231227009862,2,28599.0,New customer
+C000308,53,Middle,Contractor,South West,59,0.35405594291157505,3,46902.0,Mass market
+C000309,39,Lower-middle,Salaried,South East,105,0.5714114752959442,2,33346.0,Mass market
+C000310,18,Low,Salaried,Scotland,8,0.40417976844781056,1,17619.0,New customer
+C000311,37,Middle,Salaried,London,112,0.2394373782384451,3,30929.0,Mass market
+C000312,37,Lower-middle,Independent,Midlands,112,0.32494587359872207,2,20304.0,Mass market
+C000313,64,Lower-middle,Independent,Midlands,104,0.6790760849676116,2,26538.0,Mature relationship
+C000314,22,Lower-middle,Salaried,South West,113,0.6156009812746298,2,17526.0,Mass market
+C000315,34,Lower-middle,Salaried,London,146,0.4244351348306244,2,36042.0,Mass market
+C000316,59,Lower-middle,Contractor,Scotland,15,0.4942552203850001,2,30674.0,Mature relationship
+C000317,44,Lower-middle,Salaried,Midlands,32,0.6112188141685148,2,25152.0,Mass market
+C000318,46,Middle,Salaried,Midlands,59,0.3625019896896371,3,34543.0,Mass market
+C000319,40,Lower-middle,Salaried,South East,124,0.46527103367708444,2,32606.0,Mass market
+C000320,43,High,Salaried,London,157,0.48069285476108,5,78073.0,High-value
+C000321,48,Upper-middle,Salaried,South East,165,0.7225467331612662,4,51899.0,Digital-first
+C000322,29,Middle,Salaried,London,106,0.7972927929022149,3,36853.0,Digital-first
+C000323,50,Lower-middle,Salaried,South East,75,0.08978938604447442,2,28511.0,Mass market
+C000324,23,Middle,Salaried,Midlands,75,0.29340319190050973,3,46172.0,Mass market
+C000325,43,Upper-middle,Independent,South East,13,0.26333971876430096,4,73831.0,High-value
+C000326,41,Middle,Salaried,London,85,0.6601981140984632,3,49022.0,Mass market
+C000327,32,Upper-middle,Salaried,London,93,0.5661187843602831,4,62008.0,High-value
+C000328,39,Middle,Contractor,London,39,0.48094317758511335,3,48858.0,Mass market
+C000329,32,Middle,Salaried,London,138,0.5746581341176871,3,37491.0,Mass market
+C000330,26,Lower-middle,Independent,Midlands,146,0.9179610538440139,2,19843.0,Digital-first
+C000331,35,Middle,Salaried,London,56,0.22437553601425445,3,37490.0,Mass market
+C000332,26,Lower-middle,Independent,South West,164,0.2991689613385602,2,24388.0,Mass market
+C000333,43,Middle,Salaried,London,21,0.23632664705380094,3,37753.0,Mass market
+C000334,25,Upper-middle,Salaried,London,164,0.23952187088235954,4,52483.0,High-value
+C000335,48,Low,Salaried,South West,138,0.2877611244377583,1,16672.0,Mass market
+C000336,25,Middle,Salaried,London,42,0.33632244572712894,3,46167.0,Mass market
+C000337,32,Low,Salaried,South East,118,0.27569361763115807,1,22940.0,Mass market
+C000338,32,Middle,Independent,Scotland,58,0.6190335531264711,3,30406.0,Mass market
+C000339,55,Low,Contractor,Scotland,144,0.45017992309332056,1,14291.0,Mass market
+C000340,43,High,Salaried,North West,31,0.17285640207359543,5,82970.0,High-value
+C000341,36,Low,Contractor,London,46,0.2275964886693009,1,20205.0,Mass market
+C000342,45,High,Independent,Midlands,57,0.23075347468243998,5,91885.0,High-value
+C000343,18,Upper-middle,Contractor,Wales,38,0.9695228074829499,4,54817.0,Digital-first
+C000344,38,Middle,Independent,Scotland,61,0.35931627790118353,3,46816.0,Mass market
+C000345,63,Upper-middle,Independent,London,109,0.4376825888979715,4,71487.0,High-value
+C000346,41,Upper-middle,Salaried,South East,115,0.08633106239055974,4,61814.0,High-value
+C000347,40,High,Independent,London,101,0.32935692227701474,5,82593.0,High-value
+C000348,46,Lower-middle,Contractor,London,36,0.7616423818722177,2,29211.0,Digital-first
+C000349,50,Middle,Salaried,North West,38,0.2763295894924856,3,40432.0,Mass market
+C000350,18,Low,Salaried,London,165,0.6933135201415538,1,17306.0,Digital-first
+C000351,19,Middle,Salaried,South East,47,0.26582739831932545,3,38557.0,Mass market
+C000352,42,Lower-middle,Pensioner,London,21,0.42952075369481674,2,32144.0,Mass market
+C000353,30,Middle,Salaried,South East,83,0.5184523457286384,3,43679.0,Mass market
+C000354,55,Middle,Independent,London,4,0.30912566242152467,3,48960.0,New customer
+C000355,35,Middle,Contractor,South East,63,0.3967955064493119,3,50980.0,Mass market
+C000356,18,Middle,Pensioner,London,154,0.6369292742451658,3,45084.0,Mass market
+C000357,24,Upper-middle,Salaried,Scotland,50,0.7199097030499417,4,56976.0,Digital-first
+C000358,18,Upper-middle,Independent,London,127,0.743318037634854,4,72320.0,Digital-first
+C000359,36,Middle,Contractor,South East,89,0.3556168514830929,3,45129.0,Mass market
+C000360,37,Middle,Salaried,London,65,0.5732761253442691,3,59495.0,Mass market
+C000361,34,High,Independent,London,120,0.2914088021346953,5,99714.0,High-value
+C000362,52,Low,Salaried,London,108,0.7703111170504757,1,20009.0,Digital-first
+C000363,53,Low,Independent,London,59,0.27767575596735306,1,18836.0,Mass market
+C000364,37,Low,Salaried,London,42,0.5707577940431673,1,17715.0,Mass market
+C000365,18,Middle,Salaried,South East,165,0.33106167082464877,3,40261.0,Mass market
+C000366,46,Lower-middle,Salaried,Midlands,32,0.29160750620673515,2,29318.0,Mass market
+C000367,46,Upper-middle,Salaried,London,172,0.17202068511554314,4,67170.0,High-value
+C000368,43,Middle,Salaried,South East,86,0.6235481128610249,3,49757.0,Mass market
+C000369,51,Lower-middle,Independent,Midlands,179,0.17460867802434307,2,29384.0,Mass market
+C000370,25,Upper-middle,Salaried,London,65,0.6187701611437254,4,57408.0,High-value
+C000371,63,Upper-middle,Salaried,South East,103,0.6450630852815179,4,58758.0,High-value
+C000372,27,Lower-middle,Independent,London,111,0.5020974143940568,2,22073.0,Mass market
+C000373,48,Lower-middle,Independent,London,62,0.7873337302673609,2,35442.0,Digital-first
+C000374,19,Lower-middle,Salaried,South East,41,0.6997050736175721,2,25576.0,Digital-first
+C000375,28,Low,Pensioner,Wales,95,0.11569916104629913,1,20786.0,Mass market
+C000376,57,Low,Salaried,Wales,120,0.48244103869590116,1,18796.0,Mass market
+C000377,36,High,Contractor,Wales,49,0.6606766968989547,5,99617.0,High-value
+C000378,49,Lower-middle,Salaried,South East,138,0.3611026242091456,2,27474.0,Mass market
+C000379,42,Lower-middle,Independent,London,116,0.38955886084275354,2,24471.0,Mass market
+C000380,38,Middle,Pensioner,London,32,0.50698307047119,3,35491.0,Mass market
+C000381,55,Middle,Contractor,London,169,0.40227910268015815,3,53615.0,Mass market
+C000382,36,High,Salaried,London,10,0.3128584732967917,5,96732.0,New customer
+C000383,18,Upper-middle,Independent,London,118,0.16986737379070455,4,73163.0,High-value
+C000384,29,Middle,Salaried,South East,80,0.8248202139241956,3,51307.0,Digital-first
+C000385,46,Lower-middle,Independent,London,118,0.3937364372882478,2,26159.0,Mass market
+C000386,44,High,Independent,London,140,0.521185612029682,5,101437.0,High-value
+C000387,20,Middle,Pensioner,North West,124,0.30858295548477405,3,42302.0,Mass market
+C000388,30,High,Salaried,South East,118,0.5893074632856088,5,77410.0,High-value
+C000389,32,Low,Salaried,South West,151,0.4177719827021571,1,17466.0,Mass market
+C000390,35,Upper-middle,Independent,London,127,0.6698504408458349,4,67828.0,High-value
+C000391,22,Middle,Salaried,Midlands,147,0.49705932439950273,3,38647.0,Mass market
+C000392,31,Low,Salaried,London,74,0.09185623800371406,1,17064.0,Mass market
+C000393,30,Middle,Salaried,South East,38,0.24265519553460077,3,40835.0,Mass market
+C000394,48,Middle,Independent,London,44,0.47502928548086953,3,56189.0,Mass market
+C000395,49,Low,Salaried,London,111,0.38717224760961166,1,12718.0,Mass market
+C000396,37,Middle,Salaried,Midlands,97,0.6355797631536085,3,45371.0,Mass market
+C000397,34,Upper-middle,Salaried,London,16,0.6360643948437418,4,59487.0,High-value
+C000398,41,Lower-middle,Contractor,London,39,0.4898528313686596,2,25130.0,Mass market
+C000399,29,Middle,Independent,Scotland,174,0.33829128218956367,3,40133.0,Mass market
+C000400,25,Middle,Salaried,London,131,0.15164772960446452,3,46485.0,Mass market
+C000401,28,Lower-middle,Salaried,Midlands,136,0.2473857654062873,2,31246.0,Mass market
+C000402,31,Upper-middle,Salaried,Midlands,37,0.3262063625571376,4,63845.0,High-value
+C000403,25,Upper-middle,Salaried,London,14,0.40607491297773124,4,72840.0,High-value
+C000404,41,Low,Independent,South East,54,0.42954562097128246,1,21654.0,Mass market
+C000405,48,High,Salaried,London,154,0.23566816694877588,5,107409.0,High-value
+C000406,20,Upper-middle,Contractor,North West,92,0.4361615984552747,4,56582.0,High-value
+C000407,39,Lower-middle,Salaried,London,141,0.16186632893763228,2,30215.0,Mass market
+C000408,36,Upper-middle,Independent,London,89,0.21162896405293752,4,66952.0,High-value
+C000409,43,Low,Salaried,London,89,0.3989904754974301,1,15651.0,Mass market
+C000410,39,High,Pensioner,Scotland,109,0.2788026166427336,5,71145.0,High-value
+C000411,22,Middle,Pensioner,North West,172,0.16705007803234867,3,28407.0,Mass market
+C000412,24,Middle,Independent,Scotland,80,0.7552839684059837,3,42469.0,Digital-first
+C000413,39,Low,Salaried,Midlands,108,0.5396223361424267,1,18858.0,Mass market
+C000414,51,Upper-middle,Salaried,Midlands,165,0.30879691191823727,4,50277.0,High-value
+C000415,18,Low,Contractor,South East,68,0.5298718859837326,1,21013.0,Mass market
+C000416,43,Lower-middle,Independent,Scotland,151,0.5537003736106519,2,28682.0,Mass market
+C000417,53,Low,Salaried,South East,97,0.4477880831122746,1,21886.0,Mass market
+C000418,37,Upper-middle,Salaried,South East,158,0.772070074888811,4,65676.0,Digital-first
+C000419,46,Lower-middle,Salaried,Midlands,85,0.22213131271805966,2,23223.0,Mass market
+C000420,31,Upper-middle,Contractor,Midlands,114,0.3527254811495707,4,66546.0,High-value
+C000421,38,Middle,Independent,London,60,0.6738829119067552,3,46503.0,Mass market
+C000422,20,Low,Independent,South East,115,0.28052646972551043,1,16423.0,Mass market
+C000423,18,Low,Independent,London,60,0.7338176297860505,1,13847.0,Digital-first
+C000424,50,Low,Salaried,South West,110,0.402234670410282,1,18289.0,Mass market
+C000425,27,Middle,Salaried,South East,142,0.3889810162670334,3,35274.0,Mass market
+C000426,34,Upper-middle,Salaried,South West,79,0.28856753909534044,4,73119.0,High-value
+C000427,22,Lower-middle,Independent,South East,78,0.36290258455151186,2,26176.0,Mass market
+C000428,22,Upper-middle,Salaried,North West,60,0.24903400497668257,4,79108.0,High-value
+C000429,37,Low,Salaried,London,132,0.5877572503890388,1,11882.0,Mass market
+C000430,30,Upper-middle,Salaried,Scotland,107,0.6396980812894577,4,63337.0,High-value
+C000431,44,Upper-middle,Salaried,South East,94,0.3356370327821876,4,76180.0,High-value
+C000432,44,Upper-middle,Independent,London,7,0.7700612933558123,4,53168.0,New customer
+C000433,43,Middle,Salaried,London,22,0.5546871587505564,3,40930.0,Mass market
+C000434,42,Upper-middle,Salaried,London,4,0.07784158440361463,4,58002.0,New customer
+C000435,58,Low,Independent,South East,153,0.3907241276057899,1,16031.0,Mature relationship
+C000436,26,Lower-middle,Salaried,North West,153,0.7353687113231353,2,29096.0,Digital-first
+C000437,38,Low,Salaried,Scotland,15,0.31912098580552856,1,14269.0,Mass market
+C000438,53,Middle,Salaried,Midlands,11,0.11195196247729848,3,41254.0,New customer
+C000439,54,Middle,Contractor,Midlands,141,0.6971868445229834,3,45467.0,Digital-first
+C000440,22,Middle,Salaried,South East,95,0.40964405926895625,3,40555.0,Mass market
+C000441,35,Upper-middle,Independent,South West,57,0.437314060766618,4,52078.0,High-value
+C000442,55,Low,Pensioner,South West,111,0.16366842981739768,1,20967.0,Mass market
+C000443,45,Middle,Independent,London,44,0.5534778460668838,3,46907.0,Mass market
+C000444,41,Lower-middle,Salaried,Scotland,38,0.3236474295486969,2,23335.0,Mass market
+C000445,36,Lower-middle,Independent,South East,68,0.3660341573426806,2,22202.0,Mass market
+C000446,34,Middle,Salaried,South West,161,0.850629800879986,3,35603.0,Digital-first
+C000447,42,High,Salaried,Wales,138,0.32287357933288413,5,103288.0,High-value
+C000448,36,Middle,Salaried,North West,36,0.47196607636883064,3,43852.0,Mass market
+C000449,38,Low,Salaried,London,102,0.5227598165490969,1,20275.0,Mass market
+C000450,40,Middle,Salaried,Midlands,159,0.7345583934839333,3,39808.0,Digital-first
+C000451,31,Low,Salaried,London,171,0.19639405282984057,1,15337.0,Mass market
+C000452,45,Upper-middle,Salaried,North West,138,0.36714792243814465,4,71115.0,High-value
+C000453,74,Middle,Salaried,London,25,0.11416516813952189,3,38281.0,Mature relationship
+C000454,18,Lower-middle,Salaried,North West,45,0.35596338332878785,2,28836.0,Mass market
+C000455,43,Low,Pensioner,Scotland,41,0.3855670717309599,1,13536.0,Mass market
+C000456,30,Lower-middle,Salaried,London,29,0.4821198157108156,2,25447.0,Mass market
+C000457,46,High,Independent,South East,34,0.45144004517467146,5,110343.0,High-value
+C000458,40,Middle,Salaried,Midlands,58,0.40721978658136826,3,37187.0,Mass market
+C000459,48,Upper-middle,Salaried,South East,101,0.6539951035046618,4,70080.0,High-value
+C000460,53,Middle,Salaried,London,73,0.31136523742941946,3,26336.0,Mass market
+C000461,41,Middle,Salaried,London,77,0.1317093987400395,3,38241.0,Mass market
+C000462,53,Low,Salaried,South East,46,0.2739895917306849,1,17506.0,Mass market
+C000463,18,High,Salaried,Midlands,29,0.43854946158667113,5,121487.0,High-value
+C000464,58,Lower-middle,Salaried,Midlands,179,0.2769225137697233,2,22763.0,Mature relationship
+C000465,44,Middle,Salaried,London,109,0.4152841541316554,3,46509.0,Mass market
+C000466,52,Middle,Salaried,South East,43,0.3363705356325685,3,49103.0,Mass market
+C000467,24,Middle,Salaried,South East,146,0.6954816698861613,3,37152.0,Digital-first
+C000468,29,High,Salaried,London,150,0.4185600325218717,5,89322.0,High-value
+C000469,41,Low,Salaried,North West,174,0.5338078456634857,1,18408.0,Mass market
+C000470,39,Middle,Salaried,London,31,0.7028031047075525,3,32044.0,Digital-first
+C000471,42,Lower-middle,Salaried,Midlands,116,0.19263723291052576,2,25961.0,Mass market
+C000472,52,Middle,Salaried,Scotland,176,0.40009504334148766,3,50575.0,Mass market
+C000473,18,Low,Salaried,Midlands,145,0.4508117788324158,1,19505.0,Mass market
+C000474,51,Low,Pensioner,Midlands,42,0.4284550535724762,1,17549.0,Mass market
+C000475,39,Lower-middle,Salaried,London,161,0.5110931407224675,2,28507.0,Mass market
+C000476,37,Lower-middle,Salaried,London,77,0.1422671640645838,2,30602.0,Mass market
+C000477,21,Lower-middle,Salaried,London,89,0.2874018120349029,2,31460.0,Mass market
+C000478,45,Middle,Pensioner,North West,101,0.5429090949016512,3,38261.0,Mass market
+C000479,18,Middle,Independent,South West,139,0.1986069846925289,3,52313.0,Mass market
+C000480,47,Lower-middle,Independent,London,24,0.6390948208838958,2,33897.0,Mass market
+C000481,21,Lower-middle,Pensioner,London,98,0.6297058992678417,2,31034.0,Mass market
+C000482,40,Lower-middle,Salaried,London,147,0.3448268112179876,2,24224.0,Mass market
+C000483,38,Middle,Pensioner,Midlands,100,0.44811408038864586,3,35144.0,Mass market
+C000484,53,Lower-middle,Salaried,Midlands,51,0.37249717336456,2,26537.0,Mass market
+C000485,37,Low,Independent,North West,12,0.42987790492681754,1,18175.0,Mass market
+C000486,31,Lower-middle,Salaried,Scotland,100,0.18442958955145974,2,20077.0,Mass market
+C000487,33,Middle,Salaried,London,127,0.4854436940562938,3,45324.0,Mass market
+C000488,54,Lower-middle,Pensioner,Midlands,100,0.7308972415230428,2,33768.0,Digital-first
+C000489,45,Middle,Salaried,Midlands,176,0.44634461717627166,3,45874.0,Mass market
+C000490,34,Middle,Pensioner,London,109,0.4129265535109547,3,37457.0,Mass market
+C000491,36,Middle,Salaried,Scotland,92,0.4620064197352352,3,36662.0,Mass market
+C000492,20,Middle,Independent,London,12,0.47289881063803174,3,44015.0,Mass market
+C000493,44,Middle,Pensioner,North West,101,0.6818629480791938,3,40970.0,Digital-first
+C000494,18,Lower-middle,Salaried,North West,32,0.412447186656577,2,29985.0,Mass market
+C000495,48,Upper-middle,Contractor,Scotland,131,0.4128987173350924,4,67969.0,High-value
+C000496,41,Middle,Salaried,South East,31,0.6086877370517889,3,49338.0,Mass market
+C000497,68,Lower-middle,Independent,London,163,0.24479799246465295,2,22928.0,Mature relationship
+C000498,26,Middle,Salaried,South West,56,0.34240622284761546,3,43489.0,Mass market
+C000499,38,Lower-middle,Salaried,North West,79,0.3201259828954017,2,26372.0,Mass market
+C000500,61,Middle,Independent,South East,28,0.7317992541319559,3,41337.0,Digital-first
+C000501,53,Middle,Salaried,North West,40,0.4565342660575737,3,47809.0,Mass market
+C000502,31,Upper-middle,Salaried,London,166,0.37549687364220347,4,71653.0,High-value
+C000503,42,Upper-middle,Salaried,Midlands,53,0.337141372128493,4,75873.0,High-value
+C000504,39,Middle,Contractor,South West,93,0.3298332401258187,3,44860.0,Mass market
+C000505,42,Middle,Salaried,London,176,0.20071225540843246,3,41261.0,Mass market
+C000506,31,Upper-middle,Independent,South East,113,0.4645645147981965,4,59491.0,High-value
+C000507,38,Lower-middle,Pensioner,Scotland,10,0.44432803826984824,2,20228.0,New customer
+C000508,20,Upper-middle,Salaried,North West,66,0.1504232708897721,4,75290.0,High-value
+C000509,41,Middle,Salaried,South West,71,0.7107960805285657,3,39837.0,Digital-first
+C000510,44,Low,Independent,South East,51,0.30722203451275515,1,19457.0,Mass market
+C000511,36,Low,Salaried,Wales,45,0.5377303284177533,1,19956.0,Mass market
+C000512,20,Upper-middle,Independent,London,92,0.4018882145940383,4,49646.0,High-value
+C000513,51,Low,Independent,South East,69,0.5350637797949596,1,15341.0,Mass market
+C000514,43,Lower-middle,Independent,South East,55,0.1348721348328089,2,34931.0,Mass market
+C000515,30,Lower-middle,Salaried,North West,76,0.5527630387112854,2,29301.0,Mass market
+C000516,36,Lower-middle,Independent,Scotland,63,0.6239409840428792,2,25399.0,Mass market
+C000517,21,Lower-middle,Independent,North West,43,0.27787719559045126,2,27434.0,Mass market
+C000518,27,Middle,Salaried,Midlands,83,0.21575855438244046,3,49300.0,Mass market
+C000519,33,Low,Salaried,South East,169,0.3769554338735961,1,20691.0,Mass market
+C000520,54,Upper-middle,Contractor,South East,92,0.44977567538132035,4,47456.0,High-value
+C000521,31,Upper-middle,Independent,South East,108,0.37795143214637517,4,78212.0,High-value
+C000522,47,Lower-middle,Salaried,London,177,0.1254941137800173,2,32328.0,Mass market
+C000523,33,Low,Salaried,South East,111,0.34659756300212174,1,17561.0,Mass market
+C000524,42,Middle,Salaried,South West,42,0.37143079890263436,3,33992.0,Mass market
+C000525,37,Low,Salaried,North West,73,0.4313932584150654,1,21036.0,Mass market
+C000526,49,Lower-middle,Salaried,North West,89,0.4948098979741472,2,30134.0,Mass market
+C000527,33,High,Pensioner,South East,87,0.5769033305493705,5,72841.0,High-value
+C000528,20,High,Salaried,South East,29,0.7902916018348176,5,91472.0,Digital-first
+C000529,22,Upper-middle,Contractor,London,21,0.47760553073001283,4,93012.0,High-value
+C000530,33,Lower-middle,Salaried,South East,64,0.6312888458190521,2,28074.0,Mass market
+C000531,24,Middle,Salaried,South East,164,0.2840326236850617,3,37014.0,Mass market
+C000532,44,Middle,Salaried,London,129,0.21618000123692652,3,35223.0,Mass market
+C000533,33,Lower-middle,Salaried,London,151,0.7240220426584557,2,35939.0,Digital-first
+C000534,67,Middle,Independent,North West,33,0.24344831585040463,3,47697.0,Mature relationship
+C000535,18,Low,Pensioner,South East,76,0.5327982196502808,1,22053.0,Mass market
+C000536,41,Lower-middle,Contractor,South East,105,0.06687815830298266,2,29112.0,Mass market
+C000537,25,Middle,Salaried,London,79,0.6812770899083136,3,50427.0,Digital-first
+C000538,33,Lower-middle,Independent,Midlands,76,0.1354430374683259,2,24200.0,Mass market
+C000539,41,Lower-middle,Salaried,South East,66,0.625616528429893,2,28728.0,Mass market
+C000540,18,Upper-middle,Contractor,South East,12,0.49377886780111796,4,64848.0,High-value
+C000541,42,High,Salaried,Midlands,154,0.5865682793489999,5,116013.0,High-value
+C000542,62,Middle,Salaried,London,168,0.4458401425787268,3,44143.0,Mature relationship
+C000543,34,Upper-middle,Salaried,Scotland,17,0.5767336805559429,4,55795.0,High-value
+C000544,42,High,Salaried,London,76,0.33618611106965224,5,95974.0,High-value
+C000545,51,Low,Salaried,South East,94,0.5725983090323608,1,13172.0,Mass market
+C000546,37,Middle,Contractor,London,141,0.7755164873262299,3,26403.0,Digital-first
+C000547,32,Lower-middle,Independent,South East,177,0.5693135963052258,2,31724.0,Mass market
+C000548,18,Low,Pensioner,London,76,0.29670840215421324,1,16921.0,Mass market
+C000549,47,Upper-middle,Salaried,South West,135,0.6364985709710499,4,59407.0,High-value
+C000550,38,Lower-middle,Independent,South East,168,0.2642566916360181,2,31723.0,Mass market
+C000551,27,Middle,Salaried,Midlands,149,0.227245788223715,3,51388.0,Mass market
+C000552,41,Low,Salaried,London,54,0.42576236117347926,1,19539.0,Mass market
+C000553,32,Lower-middle,Salaried,London,147,0.42435596284877997,2,36638.0,Mass market
+C000554,33,Upper-middle,Salaried,South East,75,0.49693465530032094,4,66987.0,High-value
+C000555,46,Low,Salaried,Midlands,6,0.4802488965230569,1,18870.0,New customer
+C000556,23,Lower-middle,Salaried,South East,137,0.6780897574712305,2,29077.0,Mass market
+C000557,52,Lower-middle,Salaried,Wales,150,0.4248704569465384,2,22241.0,Mass market
+C000558,22,Middle,Independent,North West,63,0.5974071864639203,3,48424.0,Mass market
+C000559,31,Middle,Salaried,Wales,82,0.771983060939501,3,25566.0,Digital-first
+C000560,62,Middle,Pensioner,London,67,0.6009351585174553,3,38060.0,Mature relationship
+C000561,53,Low,Salaried,North West,23,0.5193988561206406,1,18066.0,Mass market
+C000562,40,Lower-middle,Contractor,Midlands,179,0.4540703780537043,2,24462.0,Mass market
+C000563,28,Upper-middle,Independent,Midlands,7,0.7012243245605996,4,57519.0,New customer
+C000564,33,Middle,Independent,Wales,101,0.4110663862670345,3,54361.0,Mass market
+C000565,40,Middle,Independent,Midlands,5,0.5184348329765659,3,49419.0,New customer
+C000566,39,Middle,Contractor,South West,125,0.6067712905634691,3,37391.0,Mass market
+C000567,38,Upper-middle,Independent,North West,162,0.371092445922058,4,57342.0,High-value
+C000568,39,Low,Salaried,London,116,0.14646513034307065,1,14322.0,Mass market
+C000569,36,Lower-middle,Salaried,North West,110,0.4302177727867213,2,31158.0,Mass market
+C000570,22,Middle,Independent,South East,149,0.5401862827478834,3,40322.0,Mass market
+C000571,33,Lower-middle,Salaried,Scotland,175,0.42980978606888975,2,19190.0,Mass market
+C000572,50,Upper-middle,Salaried,South West,155,0.8545619561090807,4,63000.0,Digital-first
+C000573,23,Middle,Salaried,London,43,0.5148589633471036,3,44950.0,Mass market
+C000574,37,Upper-middle,Salaried,London,102,0.5618483226082427,4,71554.0,High-value
+C000575,29,Upper-middle,Salaried,London,147,0.590575254096891,4,61272.0,High-value
+C000576,40,Middle,Independent,South East,55,0.14971242073468027,3,39496.0,Mass market
+C000577,34,Upper-middle,Independent,London,122,0.16511948418835368,4,81704.0,High-value
+C000578,57,Middle,Contractor,North West,7,0.7457359556269424,3,42044.0,New customer
+C000579,45,Upper-middle,Salaried,Midlands,158,0.4945780160226446,4,69138.0,High-value
+C000580,23,Lower-middle,Salaried,South West,111,0.44442842830563317,2,25583.0,Mass market
+C000581,47,Middle,Salaried,London,134,0.37953483473180727,3,46636.0,Mass market
+C000582,30,Middle,Salaried,South East,149,0.3355586555579255,3,32218.0,Mass market
+C000583,32,Low,Independent,London,41,0.7415927997155166,1,16669.0,Digital-first
+C000584,43,Lower-middle,Salaried,South West,82,0.7273034810598749,2,22587.0,Digital-first
+C000585,33,Upper-middle,Pensioner,London,154,0.3484249037743582,4,55999.0,High-value
+C000586,50,Middle,Salaried,London,32,0.5054366260307657,3,50403.0,Mass market
+C000587,30,Lower-middle,Contractor,London,148,0.7044943889563184,2,25257.0,Digital-first
+C000588,32,Lower-middle,Independent,South West,53,0.4349415321328885,2,31218.0,Mass market
+C000589,31,Lower-middle,Salaried,London,104,0.2793217675020169,2,34797.0,Mass market
+C000590,32,Low,Independent,Midlands,93,0.5111654005713842,1,17921.0,Mass market
+C000591,52,Upper-middle,Salaried,North West,124,0.3228168498977675,4,71858.0,High-value
+C000592,47,Middle,Independent,North West,151,0.7170449926586296,3,45569.0,Digital-first
+C000593,60,Lower-middle,Independent,London,64,0.7106080082445374,2,28522.0,Digital-first
+C000594,66,Middle,Salaried,London,33,0.5707993255648871,3,47042.0,Mature relationship
+C000595,27,Low,Salaried,South East,77,0.5485538154776557,1,23299.0,Mass market
+C000596,40,Lower-middle,Independent,London,111,0.43633962905562995,2,25145.0,Mass market
+C000597,25,Middle,Salaried,North West,135,0.831816315542657,3,35554.0,Digital-first
+C000598,30,Middle,Contractor,South East,136,0.12210827358743433,3,35160.0,Mass market
+C000599,31,High,Independent,South East,63,0.35357655494254414,5,110115.0,High-value
+C000600,26,Middle,Independent,London,168,0.4182309737513399,3,49589.0,Mass market
+C000601,26,Middle,Salaried,Midlands,17,0.5225558587745066,3,38391.0,Mass market
+C000602,37,Upper-middle,Independent,London,23,0.43815995025284565,4,40811.0,High-value
+C000603,24,Upper-middle,Pensioner,Midlands,7,0.5634114790319106,4,55306.0,New customer
+C000604,49,Middle,Salaried,London,166,0.16508001549063073,3,45682.0,Mass market
+C000605,28,High,Salaried,Wales,34,0.5010534828019796,5,93986.0,High-value
+C000606,73,Upper-middle,Salaried,North West,109,0.5841578366297415,4,63789.0,High-value
+C000607,34,Upper-middle,Salaried,London,146,0.4738837874841204,4,56808.0,High-value
+C000608,40,Low,Independent,London,138,0.24649429725663288,1,20921.0,Mass market
+C000609,23,Middle,Salaried,London,170,0.40340683860921306,3,44306.0,Mass market
+C000610,59,Middle,Salaried,London,12,0.2779860216751173,3,45941.0,Mature relationship
+C000611,52,Middle,Salaried,London,75,0.4608057567750575,3,43069.0,Mass market
+C000612,43,Middle,Salaried,South West,92,0.30540802577576975,3,45524.0,Mass market
+C000613,23,High,Salaried,Midlands,126,0.1973463298510825,5,101970.0,High-value
+C000614,42,High,Contractor,London,113,0.47438395837995706,5,80893.0,High-value
+C000615,26,Lower-middle,Independent,Midlands,102,0.8128096277433646,2,29671.0,Digital-first
+C000616,57,Middle,Salaried,London,57,0.20372077956972254,3,47319.0,Mass market
+C000617,49,Middle,Independent,Wales,21,0.6881812381553193,3,49763.0,Digital-first
+C000618,40,Lower-middle,Salaried,London,79,0.5106540271158413,2,29864.0,Mass market
+C000619,18,Low,Salaried,North West,48,0.7712874720283466,1,15220.0,Digital-first
+C000620,27,Low,Salaried,North West,101,0.196577683248392,1,15663.0,Mass market
+C000621,47,Upper-middle,Pensioner,London,144,0.433529220778263,4,57683.0,High-value
+C000622,54,Middle,Independent,London,100,0.6521778190011561,3,43273.0,Mass market
+C000623,52,High,Independent,South East,106,0.6561918902375083,5,93142.0,High-value
+C000624,20,Middle,Salaried,South West,10,0.5711559658282248,3,34449.0,New customer
+C000625,43,High,Salaried,Midlands,117,0.39913527179608205,5,77828.0,High-value
+C000626,51,Lower-middle,Independent,Midlands,80,0.8014602263950015,2,18599.0,Digital-first
+C000627,19,Upper-middle,Salaried,North West,24,0.5131938668773303,4,31055.0,High-value
+C000628,39,Low,Contractor,South West,40,0.6565348135083569,1,17620.0,Mass market
+C000629,42,Middle,Independent,South East,141,0.7208641282608629,3,57592.0,Digital-first
+C000630,35,Upper-middle,Salaried,South East,165,0.5059242268763691,4,79824.0,High-value
+C000631,18,Upper-middle,Independent,North West,92,0.6700884375016113,4,52296.0,High-value
+C000632,35,Upper-middle,Pensioner,London,175,0.46682493177569634,4,63487.0,High-value
+C000633,35,Low,Salaried,South West,34,0.6548212375327627,1,13782.0,Mass market
+C000634,37,Lower-middle,Independent,London,56,0.11775726855689862,2,22122.0,Mass market
+C000635,32,Low,Contractor,London,167,0.841427720919898,1,14551.0,Digital-first
+C000636,34,Low,Salaried,South West,34,0.18808253460570265,1,17351.0,Mass market
+C000637,39,Middle,Contractor,South East,119,0.4117601658812987,3,40774.0,Mass market
+C000638,44,Middle,Salaried,London,41,0.8644041619667828,3,43698.0,Digital-first
+C000639,35,Upper-middle,Independent,London,61,0.2918131509169182,4,68579.0,High-value
+C000640,34,Upper-middle,Independent,Midlands,87,0.757958782999191,4,58658.0,Digital-first
+C000641,40,Middle,Independent,South West,66,0.3719922217766293,3,42243.0,Mass market
+C000642,18,Upper-middle,Salaried,London,157,0.2932277791638312,4,51149.0,High-value
+C000643,45,Low,Independent,London,175,0.4891569752070326,1,14128.0,Mass market
+C000644,39,Lower-middle,Salaried,South East,91,0.47222559279400733,2,21285.0,Mass market
+C000645,39,Middle,Salaried,Scotland,95,0.4335263452589548,3,46363.0,Mass market
+C000646,51,Upper-middle,Salaried,London,12,0.857618496286618,4,58648.0,Digital-first
+C000647,18,Low,Independent,Scotland,44,0.13157990244067283,1,12611.0,Mass market
+C000648,18,Middle,Salaried,South West,10,0.4389355529965752,3,41576.0,New customer
+C000649,42,Middle,Salaried,London,154,0.20745082912331686,3,33608.0,Mass market
+C000650,39,Low,Contractor,South West,43,0.6075672652773865,1,22782.0,Mass market
+C000651,41,Lower-middle,Salaried,North West,63,0.24504344371998768,2,25407.0,Mass market
+C000652,33,Upper-middle,Salaried,South East,152,0.6844930227079712,4,68761.0,Digital-first
+C000653,47,Middle,Salaried,South East,129,0.7021129929361662,3,49318.0,Digital-first
+C000654,50,Lower-middle,Salaried,South West,113,0.3263403588966076,2,23722.0,Mass market
+C000655,45,Upper-middle,Independent,North West,9,0.6000911210660881,4,62754.0,New customer
+C000656,36,Lower-middle,Salaried,North West,102,0.3515386125935968,2,30480.0,Mass market
+C000657,18,Upper-middle,Salaried,Wales,102,0.13546972041530164,4,63146.0,High-value
+C000658,48,Lower-middle,Pensioner,South East,59,0.21334070504270394,2,29618.0,Mass market
+C000659,54,Middle,Contractor,South West,134,0.2531181916688357,3,33065.0,Mass market
+C000660,47,Lower-middle,Independent,South West,167,0.47946503927590123,2,30482.0,Mass market
+C000661,28,Lower-middle,Contractor,London,48,0.7238598419113289,2,25822.0,Digital-first
+C000662,47,Upper-middle,Contractor,London,61,0.27530616682005576,4,65467.0,High-value
+C000663,49,Lower-middle,Salaried,South East,60,0.631212005566199,2,32122.0,Mass market
+C000664,58,Low,Independent,South West,150,0.11396076112392457,1,19926.0,Mature relationship
+C000665,28,Lower-middle,Independent,London,16,0.6817099927303722,2,29562.0,Digital-first
+C000666,36,Middle,Salaried,North West,161,0.3668310404512394,3,46315.0,Mass market
+C000667,48,Upper-middle,Salaried,London,140,0.3260314424465227,4,68829.0,High-value
+C000668,40,High,Salaried,South East,88,0.41298728255876327,5,117732.0,High-value
+C000669,26,Lower-middle,Independent,Midlands,106,0.5101818126577237,2,27847.0,Mass market
+C000670,44,Lower-middle,Independent,London,161,0.48159448886713835,2,28735.0,Mass market
+C000671,46,Low,Independent,South West,139,0.2552852051464357,1,20684.0,Mass market
+C000672,40,Middle,Salaried,London,51,0.4786201390447,3,38705.0,Mass market
+C000673,42,High,Salaried,Scotland,11,0.2716000436977256,5,74704.0,New customer
+C000674,36,Middle,Salaried,London,119,0.13944140072085787,3,45315.0,Mass market
+C000675,57,Middle,Salaried,Wales,28,0.45329825549478636,3,40616.0,Mass market
+C000676,28,Lower-middle,Contractor,Midlands,18,0.461403751812045,2,22590.0,Mass market
+C000677,32,Upper-middle,Contractor,London,176,0.17582925659574927,4,66965.0,High-value
+C000678,39,Middle,Contractor,London,86,0.3708805786734661,3,51617.0,Mass market
+C000679,50,Low,Contractor,London,118,0.11888160219003864,1,13306.0,Mass market
+C000680,21,Lower-middle,Pensioner,Midlands,41,0.7311023875843695,2,32580.0,Digital-first
+C000681,23,Low,Salaried,South West,21,0.2185236183498985,1,10693.0,Mass market
+C000682,18,Lower-middle,Salaried,South East,14,0.40318396556614217,2,26207.0,Mass market
+C000683,39,Low,Salaried,South East,65,0.4082789498362852,1,23301.0,Mass market
+C000684,26,Middle,Salaried,Midlands,3,0.757310678467107,3,39794.0,New customer
+C000685,34,Middle,Salaried,Midlands,77,0.08230647452295951,3,42604.0,Mass market
+C000686,47,Lower-middle,Salaried,North West,60,0.8243799599890621,2,31418.0,Digital-first
+C000687,31,Lower-middle,Pensioner,South East,96,0.6623698119305489,2,20310.0,Mass market
+C000688,42,High,Salaried,North West,107,0.46582868040976294,5,96096.0,High-value
+C000689,35,Upper-middle,Pensioner,Wales,57,0.5074155708686565,4,62637.0,High-value
+C000690,47,Middle,Independent,South East,83,0.43949367863093863,3,54515.0,Mass market
+C000691,45,Lower-middle,Independent,London,16,0.1976455480192242,2,22464.0,Mass market
+C000692,31,Upper-middle,Independent,London,56,0.5007234434574465,4,58215.0,High-value
+C000693,37,Lower-middle,Salaried,Midlands,176,0.5426436389752467,2,23841.0,Mass market
+C000694,52,Lower-middle,Independent,South East,178,0.6162514660908983,2,23366.0,Mass market
+C000695,44,Upper-middle,Salaried,Scotland,88,0.7887782335927487,4,73184.0,Digital-first
+C000696,22,Middle,Pensioner,Midlands,169,0.2189907909375984,3,42179.0,Mass market
+C000697,47,Middle,Salaried,South East,91,0.6006238286437939,3,38267.0,Mass market
+C000698,26,Middle,Salaried,North West,25,0.8469800133962677,3,38520.0,Digital-first
+C000699,56,Middle,Independent,London,156,0.395427494279617,3,38215.0,Mass market
+C000700,51,Lower-middle,Independent,South West,76,0.7120022895058553,2,25877.0,Digital-first
+C000701,42,Lower-middle,Salaried,London,111,0.8740862045580453,2,22335.0,Digital-first
+C000702,41,Lower-middle,Independent,Midlands,117,0.7248045952500318,2,26841.0,Digital-first
+C000703,36,Low,Salaried,Scotland,57,0.6897146214603176,1,16965.0,Digital-first
+C000704,47,Upper-middle,Independent,North West,132,0.5410295978766281,4,54483.0,High-value
+C000705,35,Lower-middle,Salaried,South West,91,0.4236667841442844,2,28695.0,Mass market
+C000706,42,Middle,Salaried,South East,67,0.5610922569161527,3,43612.0,Mass market
+C000707,49,Upper-middle,Salaried,South West,55,0.7374019279309815,4,56478.0,Digital-first
+C000708,32,Upper-middle,Salaried,Midlands,135,0.5617673752259812,4,60570.0,High-value
+C000709,32,Lower-middle,Salaried,Midlands,47,0.4403337115349811,2,37671.0,Mass market
+C000710,25,Middle,Salaried,London,24,0.5135316420902635,3,56249.0,Mass market
+C000711,26,High,Salaried,London,159,0.608955856105632,5,78978.0,High-value
+C000712,18,Middle,Salaried,Midlands,61,0.301199966113252,3,35855.0,Mass market
+C000713,48,Upper-middle,Salaried,London,116,0.2613191865945143,4,51491.0,High-value
+C000714,61,Upper-middle,Salaried,North West,129,0.5622381717046437,4,72486.0,High-value
+C000715,56,Upper-middle,Independent,South West,151,0.6133203246609172,4,58047.0,High-value
+C000716,19,Lower-middle,Pensioner,Scotland,113,0.081915393296417,2,29074.0,Mass market
+C000717,48,Middle,Salaried,London,128,0.6729826149864745,3,55420.0,Mass market
+C000718,56,Low,Contractor,Scotland,151,0.35120058770220786,1,17970.0,Mass market
+C000719,34,Middle,Salaried,London,169,0.628592305132052,3,46746.0,Mass market
+C000720,40,High,Salaried,South East,11,0.3613143048764292,5,102910.0,New customer
+C000721,18,Middle,Independent,South West,134,0.5233542020389381,3,38047.0,Mass market
+C000722,42,Lower-middle,Independent,London,33,0.5982856774747152,2,32745.0,Mass market
+C000723,26,Low,Contractor,London,160,0.4486316177932098,1,15553.0,Mass market
+C000724,41,High,Salaried,London,11,0.5831148194177613,5,115366.0,New customer
+C000725,20,Low,Independent,South East,46,0.20168235138584353,1,16308.0,Mass market
+C000726,46,Low,Salaried,South West,37,0.34163801767249047,1,16623.0,Mass market
+C000727,51,Lower-middle,Salaried,London,109,0.35636809512015216,2,23124.0,Mass market
+C000728,30,Low,Salaried,London,3,0.3467668581927985,1,15338.0,New customer
+C000729,25,Middle,Pensioner,Midlands,6,0.3510818051402173,3,39132.0,New customer
+C000730,18,Middle,Salaried,London,92,0.7697309677308861,3,25661.0,Digital-first
+C000731,36,Lower-middle,Contractor,North West,174,0.17456660916842928,2,26955.0,Mass market
+C000732,32,Low,Independent,Scotland,96,0.6406084467389813,1,16537.0,Mass market
+C000733,20,Low,Independent,North West,81,0.47037686386777944,1,20275.0,Mass market
+C000734,44,Lower-middle,Independent,South West,119,0.4709294326917942,2,29895.0,Mass market
+C000735,34,Low,Contractor,South East,100,0.705049476460078,1,15962.0,Digital-first
+C000736,26,Middle,Salaried,South West,71,0.47611392023049337,3,38919.0,Mass market
+C000737,32,Lower-middle,Salaried,London,107,0.6344688224477432,2,26949.0,Mass market
+C000738,52,Lower-middle,Independent,London,3,0.733499630848363,2,34657.0,New customer
+C000739,46,Lower-middle,Salaried,Midlands,46,0.363546259732402,2,24316.0,Mass market
+C000740,37,Lower-middle,Salaried,London,122,0.49835893188759317,2,24775.0,Mass market
+C000741,46,Low,Salaried,South West,63,0.1571667361930643,1,14750.0,Mass market
+C000742,25,Low,Salaried,North West,12,0.2684887520013585,1,13732.0,Mass market
+C000743,39,Upper-middle,Salaried,Scotland,25,0.30326682993944903,4,65045.0,High-value
+C000744,41,Low,Salaried,London,156,0.6496711948582339,1,18584.0,Mass market
+C000745,33,Middle,Contractor,South East,61,0.17754502304259528,3,50620.0,Mass market
+C000746,44,Middle,Salaried,North West,7,0.5623690537077172,3,48998.0,New customer
+C000747,30,Lower-middle,Pensioner,London,131,0.7171347983653732,2,38739.0,Digital-first
+C000748,45,Lower-middle,Pensioner,Midlands,96,0.3379238050728325,2,27669.0,Mass market
+C000749,46,Upper-middle,Salaried,Midlands,82,0.2759221666370847,4,59416.0,High-value
+C000750,18,Upper-middle,Independent,Wales,161,0.5034711422436552,4,49102.0,High-value
+C000751,53,Lower-middle,Independent,North West,58,0.5251931397261138,2,31121.0,Mass market
+C000752,18,Lower-middle,Independent,London,104,0.3872240912761154,2,28531.0,Mass market
+C000753,32,Lower-middle,Salaried,South East,134,0.5716273484772822,2,30918.0,Mass market
+C000754,51,Middle,Salaried,Midlands,110,0.6784815802015455,3,34345.0,Mass market
+C000755,35,Middle,Salaried,London,39,0.41082165753126965,3,44363.0,Mass market
+C000756,21,Lower-middle,Independent,South East,123,0.15401869780659136,2,28919.0,Mass market
+C000757,26,Lower-middle,Pensioner,London,134,0.35326715127477765,2,28623.0,Mass market
+C000758,51,High,Independent,London,24,0.29445057243667316,5,84614.0,High-value
+C000759,18,Low,Independent,South East,32,0.6859950367339477,1,21425.0,Digital-first
+C000760,53,Middle,Pensioner,London,122,0.23493505817391952,3,55778.0,Mass market
+C000761,38,Middle,Independent,Midlands,24,0.5241928062949207,3,34538.0,Mass market
+C000762,25,Low,Salaried,London,158,0.5415161173106534,1,20075.0,Mass market
+C000763,32,Low,Contractor,North West,22,0.20721837283811376,1,9712.0,Mass market
+C000764,27,Low,Salaried,London,175,0.675135249016962,1,19926.0,Mass market
+C000765,49,Upper-middle,Salaried,South West,121,0.6800646559444197,4,43448.0,Digital-first
+C000766,48,Low,Salaried,London,81,0.4604075989367145,1,16488.0,Mass market
+C000767,18,Lower-middle,Pensioner,South East,50,0.5167934752929999,2,22118.0,Mass market
+C000768,34,Low,Salaried,London,63,0.31451558743309604,1,17379.0,Mass market
+C000769,29,Low,Salaried,London,135,0.5147582087234661,1,20416.0,Mass market
+C000770,55,Middle,Salaried,South East,136,0.15824587981914992,3,29519.0,Mass market
+C000771,23,Lower-middle,Salaried,South West,39,0.5490403157102643,2,26390.0,Mass market
+C000772,58,Middle,Salaried,Scotland,99,0.28782145591255986,3,38550.0,Mature relationship
+C000773,39,Middle,Independent,London,178,0.7457538719371901,3,52625.0,Digital-first
+C000774,25,Upper-middle,Contractor,London,48,0.2651166605875729,4,66283.0,High-value
+C000775,31,Low,Salaried,North West,125,0.40404013179817144,1,14610.0,Mass market
+C000776,29,Upper-middle,Salaried,Midlands,33,0.5929843029265537,4,57325.0,High-value
+C000777,24,Middle,Salaried,London,150,0.4453973526399559,3,52457.0,Mass market
+C000778,40,Lower-middle,Salaried,North West,33,0.4791694303492664,2,31200.0,Mass market
+C000779,24,Upper-middle,Salaried,South East,55,0.2147329108639733,4,52891.0,High-value
+C000780,18,Upper-middle,Independent,Midlands,84,0.4375547308284998,4,59351.0,High-value
+C000781,34,Lower-middle,Independent,South East,68,0.44535221167567535,2,26947.0,Mass market
+C000782,18,Upper-middle,Salaried,South East,33,0.41385932682962084,4,56663.0,High-value
+C000783,30,Middle,Salaried,London,116,0.673511858655054,3,30507.0,Mass market
+C000784,28,Middle,Salaried,North West,6,0.2625061469254415,3,37446.0,New customer
+C000785,29,High,Salaried,London,177,0.41571877362427356,5,116116.0,High-value
+C000786,63,Lower-middle,Pensioner,North West,12,0.12824562234353168,2,26292.0,Mature relationship
+C000787,40,Upper-middle,Independent,North West,62,0.3592551692234277,4,60976.0,High-value
+C000788,42,Lower-middle,Contractor,North West,167,0.11257030865965993,2,28630.0,Mass market
+C000789,18,Upper-middle,Contractor,London,30,0.2760869909197516,4,84004.0,High-value
+C000790,31,Middle,Independent,London,15,0.7373694218272882,3,42060.0,Digital-first
+C000791,42,Lower-middle,Contractor,South East,134,0.5768608835389699,2,32901.0,Mass market
+C000792,27,Lower-middle,Salaried,Midlands,15,0.6798217506986303,2,25320.0,Mass market
+C000793,50,Lower-middle,Salaried,Scotland,162,0.3740961832810841,2,26838.0,Mass market
+C000794,25,Low,Salaried,South East,82,0.4511218597043439,1,18036.0,Mass market
+C000795,36,Low,Salaried,South West,156,0.6950624934462669,1,15770.0,Digital-first
+C000796,32,Lower-middle,Salaried,London,46,0.36116180863941244,2,27087.0,Mass market
+C000797,41,Low,Salaried,South East,27,0.4647020115833586,1,20558.0,Mass market
+C000798,31,Lower-middle,Independent,London,173,0.27207892567031877,2,24414.0,Mass market
+C000799,36,Middle,Independent,North West,137,0.5779718611569824,3,42001.0,Mass market
+C000800,36,Middle,Independent,London,164,0.3878969439483554,3,46763.0,Mass market
+C000801,30,Middle,Salaried,London,59,0.5670167371428503,3,36460.0,Mass market
+C000802,45,Lower-middle,Independent,North West,74,0.25900079251341557,2,32907.0,Mass market
+C000803,42,Upper-middle,Salaried,Midlands,105,0.6347353716743603,4,62723.0,High-value
+C000804,38,Middle,Salaried,London,82,0.2569322747381092,3,40890.0,Mass market
+C000805,34,Low,Salaried,London,45,0.08890557960086591,1,12217.0,Mass market
+C000806,49,Low,Salaried,South East,69,0.3324774788855538,1,16924.0,Mass market
+C000807,36,Middle,Salaried,London,110,0.672202258895296,3,44497.0,Mass market
+C000808,35,Lower-middle,Contractor,London,9,0.30780664679375147,2,35819.0,New customer
+C000809,40,Middle,Independent,Midlands,62,0.4657557486904055,3,45816.0,Mass market
+C000810,59,High,Independent,London,54,0.32398510875109815,5,112118.0,High-value
+C000811,23,Low,Salaried,Midlands,15,0.6132057241321641,1,14518.0,Mass market
+C000812,48,Low,Contractor,South East,24,0.7260873880470576,1,17635.0,Digital-first
+C000813,18,High,Independent,London,90,0.4163022416400582,5,113555.0,High-value
+C000814,42,Middle,Salaried,London,21,0.21912819509475057,3,36034.0,Mass market
+C000815,58,Low,Independent,London,64,0.38584510902407204,1,20780.0,Mature relationship
+C000816,45,Upper-middle,Salaried,London,102,0.6643460073438483,4,69275.0,High-value
+C000817,41,Upper-middle,Salaried,London,157,0.1970667360119971,4,64725.0,High-value
+C000818,32,Middle,Salaried,Scotland,20,0.4213726766002739,3,39791.0,Mass market
+C000819,39,Middle,Salaried,South West,79,0.32490790711092676,3,35372.0,Mass market
+C000820,36,Lower-middle,Salaried,South East,21,0.05151399235269233,2,35954.0,Mass market
+C000821,30,Low,Salaried,Midlands,78,0.21172019138725487,1,19820.0,Mass market
+C000822,36,Middle,Salaried,Midlands,88,0.3268792587106675,3,44289.0,Mass market
+C000823,41,Lower-middle,Pensioner,South West,144,0.6725648917994941,2,26150.0,Mass market
+C000824,30,Middle,Salaried,London,81,0.4674280333331466,3,42254.0,Mass market
+C000825,29,Upper-middle,Salaried,London,168,0.4119371014724151,4,63634.0,High-value
+C000826,23,Low,Salaried,London,27,0.5935176030945712,1,19152.0,Mass market
+C000827,44,Middle,Contractor,London,12,0.3768781822463754,3,46935.0,Mass market
+C000828,46,Lower-middle,Salaried,London,3,0.15616535700606266,2,24495.0,New customer
+C000829,42,Upper-middle,Contractor,South West,66,0.3252034111738166,4,47451.0,High-value
+C000830,51,Lower-middle,Salaried,Scotland,37,0.3980099985325245,2,28378.0,Mass market
+C000831,40,Middle,Salaried,London,19,0.6273329955241868,3,30259.0,Mass market
+C000832,44,Middle,Salaried,South East,44,0.30383279163359767,3,39825.0,Mass market
+C000833,43,Lower-middle,Salaried,South East,175,0.37032751245234113,2,25719.0,Mass market
+C000834,38,Middle,Contractor,South East,144,0.3924752476230727,3,45305.0,Mass market
+C000835,33,Middle,Contractor,Midlands,6,0.4305236759961383,3,55323.0,New customer
+C000836,66,Middle,Salaried,London,165,0.6685870828917387,3,28932.0,Mature relationship
+C000837,34,Upper-middle,Pensioner,South West,39,0.5376302489446904,4,84560.0,High-value
+C000838,31,High,Salaried,Wales,74,0.3615994712311772,5,91457.0,High-value
+C000839,44,Lower-middle,Salaried,Midlands,60,0.6505696999139254,2,29558.0,Mass market
+C000840,42,Middle,Salaried,Midlands,74,0.16446916333640652,3,32492.0,Mass market
+C000841,22,Low,Salaried,South East,137,0.33659847275023386,1,20871.0,Mass market
+C000842,52,Upper-middle,Contractor,London,129,0.5485737200862463,4,62411.0,High-value
+C000843,38,Middle,Salaried,London,108,0.5138179913272098,3,41587.0,Mass market
+C000844,26,Lower-middle,Salaried,Midlands,113,0.2966228073161833,2,19321.0,Mass market
+C000845,53,Low,Salaried,London,131,0.3071393479490955,1,18213.0,Mass market
+C000846,47,Upper-middle,Salaried,South West,35,0.17126775475278488,4,70391.0,High-value
+C000847,24,Lower-middle,Salaried,South East,73,0.3581906431965652,2,26941.0,Mass market
+C000848,60,Middle,Independent,South East,22,0.23380416307698226,3,49891.0,Mature relationship
+C000849,47,Low,Salaried,London,127,0.27632049135870973,1,21263.0,Mass market
+C000850,39,High,Salaried,Wales,80,0.40119663080753737,5,85255.0,High-value
+C000851,58,Lower-middle,Salaried,London,115,0.8235140887925262,2,35146.0,Digital-first
+C000852,41,Lower-middle,Salaried,London,102,0.534500690275829,2,28203.0,Mass market
+C000853,39,Upper-middle,Salaried,London,51,0.4699142849323803,4,62493.0,High-value
+C000854,31,Upper-middle,Independent,Midlands,27,0.10512962590424992,4,62982.0,High-value
+C000855,46,Lower-middle,Pensioner,Wales,175,0.382712794923976,2,28311.0,Mass market
+C000856,45,Middle,Salaried,London,54,0.8523507632835544,3,24326.0,Digital-first
+C000857,39,Middle,Pensioner,Scotland,22,0.3630541576531603,3,40753.0,Mass market
+C000858,30,Upper-middle,Independent,London,57,0.5884573962825203,4,48470.0,High-value
+C000859,41,Lower-middle,Independent,Midlands,162,0.40593830485777227,2,35286.0,Mass market
+C000860,38,Middle,Independent,London,49,0.5555775594648776,3,52658.0,Mass market
+C000861,23,Middle,Independent,South East,177,0.5788629991994867,3,47725.0,Mass market
+C000862,21,Middle,Contractor,Midlands,84,0.6675511288868798,3,40397.0,Mass market
+C000863,46,Upper-middle,Salaried,Midlands,155,0.06193537104647539,4,52000.0,High-value
+C000864,18,Middle,Salaried,London,118,0.07107661687367793,3,37581.0,Mass market
+C000865,41,Low,Salaried,South West,10,0.37353792199566316,1,23595.0,New customer
+C000866,33,Upper-middle,Salaried,Wales,93,0.7261273376149472,4,55133.0,Digital-first
+C000867,55,Upper-middle,Independent,South East,76,0.5562457127246302,4,38632.0,High-value
+C000868,33,Upper-middle,Salaried,Midlands,38,0.45822230370107714,4,72219.0,High-value
+C000869,47,Low,Salaried,North West,100,0.30237221879393816,1,22321.0,Mass market
+C000870,34,Lower-middle,Salaried,London,21,0.43235336952445774,2,35433.0,Mass market
+C000871,40,Middle,Salaried,South West,126,0.20523999567109563,3,48978.0,Mass market
+C000872,48,Low,Independent,London,148,0.9304679918236363,1,21460.0,Digital-first
+C000873,33,High,Independent,North West,19,0.28893638974513547,5,95805.0,High-value
+C000874,51,Lower-middle,Salaried,London,87,0.20020428370403015,2,18698.0,Mass market
+C000875,27,Middle,Salaried,London,118,0.30928946287996784,3,42187.0,Mass market
+C000876,43,Upper-middle,Salaried,Midlands,13,0.6679284343335544,4,68166.0,High-value
+C000877,50,Lower-middle,Salaried,South East,71,0.622084531381925,2,27394.0,Mass market
+C000878,47,Lower-middle,Independent,South West,48,0.7142475896825753,2,27190.0,Digital-first
+C000879,62,Middle,Salaried,Wales,9,0.27867272510027485,3,35521.0,New customer
+C000880,30,Middle,Salaried,London,145,0.5956752384285998,3,35268.0,Mass market
+C000881,22,Lower-middle,Salaried,London,81,0.44171971837600504,2,36235.0,Mass market
+C000882,27,Middle,Pensioner,South East,136,0.5196336344297823,3,54596.0,Mass market
+C000883,47,High,Independent,South East,106,0.1587626305708923,5,94960.0,High-value
+C000884,45,Middle,Salaried,South East,158,0.5648076185689607,3,43892.0,Mass market
+C000885,40,Lower-middle,Salaried,South West,179,0.8713806910974246,2,23606.0,Digital-first
+C000886,26,Lower-middle,Salaried,North West,109,0.2859158599827113,2,30879.0,Mass market
+C000887,48,Lower-middle,Pensioner,London,65,0.16455330234972007,2,35883.0,Mass market
+C000888,24,Low,Salaried,South East,77,0.9313715306424913,1,13596.0,Digital-first
+C000889,53,Lower-middle,Salaried,Midlands,149,0.589012979327844,2,30078.0,Mass market
+C000890,73,Middle,Pensioner,South East,78,0.5945459589841025,3,45622.0,Mature relationship
+C000891,43,Lower-middle,Independent,London,94,0.7700389924117712,2,30364.0,Digital-first
+C000892,46,High,Salaried,South East,37,0.7061911774813797,5,119971.0,Digital-first
+C000893,33,Lower-middle,Salaried,South East,178,0.30625751865906303,2,37121.0,Mass market
+C000894,18,Low,Salaried,London,118,0.1838007731038713,1,17328.0,Mass market
+C000895,32,Upper-middle,Independent,North West,61,0.6988073352056945,4,68678.0,Digital-first
+C000896,26,Upper-middle,Salaried,London,106,0.28499693672500487,4,62836.0,High-value
+C000897,22,Lower-middle,Pensioner,Midlands,74,0.23222548330645493,2,25168.0,Mass market
+C000898,60,Lower-middle,Pensioner,South East,30,0.7653418752572563,2,29213.0,Digital-first
+C000899,42,Lower-middle,Salaried,South West,157,0.23840898015537382,2,31008.0,Mass market
+C000900,44,Middle,Independent,London,159,0.37419188146160665,3,43458.0,Mass market
+C000901,35,Middle,Salaried,London,150,0.7603155467226744,3,36078.0,Digital-first
+C000902,37,Lower-middle,Salaried,London,68,0.11748537045645774,2,25923.0,Mass market
+C000903,51,Low,Independent,South East,48,0.8190161779719048,1,16687.0,Digital-first
+C000904,39,Middle,Salaried,London,11,0.11802002121736935,3,36339.0,New customer
+C000905,45,High,Salaried,North West,132,0.32703441553126916,5,99766.0,High-value
+C000906,37,Middle,Salaried,London,61,0.1711001312401509,3,44810.0,Mass market
+C000907,35,Middle,Salaried,London,160,0.38490824761420606,3,48582.0,Mass market
+C000908,22,Low,Salaried,South East,156,0.4552660828049833,1,15530.0,Mass market
+C000909,18,Lower-middle,Independent,North West,25,0.20823624162935772,2,25413.0,Mass market
+C000910,36,Lower-middle,Contractor,South West,165,0.41374572802674087,2,34964.0,Mass market
+C000911,40,Upper-middle,Independent,North West,27,0.2236030510634685,4,60368.0,High-value
+C000912,24,Upper-middle,Contractor,Midlands,89,0.43952734101825636,4,62299.0,High-value
+C000913,39,Upper-middle,Salaried,North West,86,0.22840485395869278,4,60263.0,High-value
+C000914,40,High,Contractor,North West,172,0.4612780965409054,5,112222.0,High-value
+C000915,18,High,Salaried,London,119,0.19193107867893683,5,112811.0,High-value
+C000916,28,High,Salaried,Midlands,157,0.4309556978505616,5,111921.0,High-value
+C000917,44,Low,Pensioner,North West,108,0.20590417643620235,1,18077.0,Mass market
+C000918,44,Low,Salaried,London,149,0.3196479298240312,1,15487.0,Mass market
+C000919,25,Lower-middle,Salaried,Midlands,153,0.49846891502900126,2,36625.0,Mass market
+C000920,41,Middle,Salaried,South East,155,0.21895169499103373,3,47754.0,Mass market
+C000921,51,Low,Salaried,South East,75,0.07022847325707215,1,16685.0,Mass market
+C000922,48,Upper-middle,Salaried,London,70,0.06064591230760784,4,76124.0,High-value
+C000923,38,Middle,Salaried,Midlands,177,0.477963250051697,3,38401.0,Mass market
+C000924,33,Middle,Contractor,South West,136,0.6264813725109614,3,51480.0,Mass market
+C000925,31,Lower-middle,Salaried,London,165,0.7333673571011078,2,34623.0,Digital-first
+C000926,45,Lower-middle,Salaried,South East,105,0.6359899441255413,2,23872.0,Mass market
+C000927,41,Lower-middle,Salaried,London,167,0.2932137675205447,2,30606.0,Mass market
+C000928,47,Upper-middle,Contractor,London,130,0.9145870038846603,4,69759.0,Digital-first
+C000929,41,Middle,Salaried,Wales,134,0.717489819546438,3,59572.0,Digital-first
+C000930,49,Middle,Salaried,South East,34,0.7143812790422523,3,37012.0,Digital-first
+C000931,40,Lower-middle,Salaried,South East,103,0.2633274878541152,2,34418.0,Mass market
+C000932,48,Lower-middle,Independent,London,132,0.5797561648702698,2,28078.0,Mass market
+C000933,49,Lower-middle,Independent,Wales,137,0.46037760873222683,2,22439.0,Mass market
+C000934,29,Upper-middle,Independent,London,172,0.26180526978340574,4,60810.0,High-value
+C000935,18,Upper-middle,Independent,North West,60,0.7901232960052081,4,62024.0,Digital-first
+C000936,58,Lower-middle,Salaried,London,56,0.19046418630482864,2,23256.0,Mature relationship
+C000937,42,High,Salaried,London,174,0.2088760080945555,5,99745.0,High-value
+C000938,18,Low,Salaried,North West,177,0.5083284398625059,1,20758.0,Mass market
+C000939,30,Upper-middle,Salaried,London,34,0.3204465004697982,4,64363.0,High-value
+C000940,48,Low,Salaried,Midlands,69,0.26511471625749816,1,16439.0,Mass market
+C000941,36,Lower-middle,Salaried,London,170,0.2916069144133648,2,27335.0,Mass market
+C000942,33,Upper-middle,Salaried,North West,38,0.6168271654905501,4,61955.0,High-value
+C000943,56,Lower-middle,Salaried,North West,141,0.8363059972128242,2,28974.0,Digital-first
+C000944,26,Lower-middle,Salaried,North West,22,0.49308729861973294,2,32972.0,Mass market
+C000945,29,Middle,Independent,London,34,0.5107127095543316,3,43827.0,Mass market
+C000946,42,Lower-middle,Independent,North West,141,0.462073923231812,2,21716.0,Mass market
+C000947,44,Middle,Salaried,Wales,110,0.44242623205950476,3,38221.0,Mass market
+C000948,45,Upper-middle,Salaried,London,101,0.6486729877482098,4,63647.0,High-value
+C000949,50,Upper-middle,Independent,London,154,0.12539396724925075,4,73151.0,High-value
+C000950,41,Lower-middle,Independent,South West,57,0.368881751140535,2,33814.0,Mass market
+C000951,45,Middle,Salaried,London,92,0.19270962510142778,3,53926.0,Mass market
+C000952,36,Lower-middle,Salaried,Midlands,110,0.42198919826416054,2,28585.0,Mass market
+C000953,40,Lower-middle,Independent,North West,133,0.4917719184529686,2,31420.0,Mass market
+C000954,40,Lower-middle,Independent,London,61,0.4516595239980866,2,21484.0,Mass market
+C000955,42,High,Salaried,Midlands,115,0.7897391736397971,5,101534.0,Digital-first
+C000956,48,Upper-middle,Salaried,Midlands,82,0.6421111931329387,4,51333.0,High-value
+C000957,46,Upper-middle,Contractor,London,98,0.07369459134626485,4,61380.0,High-value
+C000958,40,Middle,Salaried,South West,155,0.506941132013098,3,62361.0,Mass market
+C000959,29,Middle,Contractor,London,72,0.7144948815480191,3,44040.0,Digital-first
+C000960,40,Middle,Salaried,South East,121,0.5671432503674679,3,36195.0,Mass market
+C000961,39,Middle,Salaried,South West,169,0.7581578135846693,3,44740.0,Digital-first
+C000962,41,Lower-middle,Salaried,London,137,0.5321769097629943,2,25684.0,Mass market
+C000963,65,Low,Salaried,South West,178,0.6897323898675285,1,15233.0,Digital-first
+C000964,33,Low,Contractor,London,106,0.503580061560961,1,24057.0,Mass market
+C000965,44,High,Salaried,South East,52,0.4726554080437818,5,111216.0,High-value
+C000966,52,Middle,Pensioner,London,178,0.5074262525333713,3,44322.0,Mass market
+C000967,40,High,Salaried,Midlands,117,0.3130379387746382,5,89044.0,High-value
+C000968,67,Lower-middle,Contractor,North West,45,0.24925204389307276,2,26608.0,Mature relationship
+C000969,34,Middle,Contractor,South West,59,0.4898910763920453,3,52365.0,Mass market
+C000970,43,Lower-middle,Salaried,Wales,49,0.3125133071356247,2,29373.0,Mass market
+C000971,29,Lower-middle,Salaried,Midlands,150,0.6646989572159056,2,14189.0,Mass market
+C000972,35,Low,Independent,North West,19,0.7895420055996508,1,24972.0,Digital-first
+C000973,42,Low,Salaried,South East,133,0.21667831813569144,1,18527.0,Mass market
+C000974,49,Upper-middle,Pensioner,Scotland,101,0.09586593354841562,4,65406.0,High-value
+C000975,43,Lower-middle,Salaried,Midlands,16,0.19773768120690807,2,32868.0,Mass market
+C000976,54,Middle,Salaried,South West,111,0.3797075492075544,3,45128.0,Mass market
+C000977,38,Middle,Salaried,London,136,0.7316687866845556,3,47019.0,Digital-first
+C000978,35,Lower-middle,Independent,South East,131,0.6807245146719043,2,26102.0,Digital-first
+C000979,71,Middle,Pensioner,North West,96,0.18421378073351974,3,33736.0,Mature relationship
+C000980,44,Lower-middle,Salaried,London,62,0.558190844770866,2,29255.0,Mass market
+C000981,30,High,Independent,London,32,0.34283872090482637,5,116761.0,High-value
+C000982,31,Upper-middle,Contractor,Wales,5,0.37622297243060115,4,55574.0,New customer
+C000983,28,Middle,Salaried,South East,66,0.3394599219628984,3,37108.0,Mass market
+C000984,50,Middle,Salaried,London,114,0.4512247223922225,3,50205.0,Mass market
+C000985,35,Low,Independent,London,9,0.5241352234616984,1,16683.0,New customer
+C000986,41,Upper-middle,Independent,South East,179,0.42116675660440595,4,57927.0,High-value
+C000987,38,Lower-middle,Salaried,Midlands,106,0.3646782043595568,2,26328.0,Mass market
+C000988,48,Low,Contractor,Scotland,55,0.8640707304374471,1,17813.0,Digital-first
+C000989,29,Lower-middle,Salaried,Wales,173,0.7524695652230942,2,20950.0,Digital-first
+C000990,26,Upper-middle,Contractor,Midlands,35,0.6811505843341794,4,56650.0,Digital-first
+C000991,42,Middle,Contractor,North West,172,0.6941834334669961,3,43548.0,Digital-first
+C000992,46,Upper-middle,Contractor,London,52,0.4262010995971198,4,64215.0,High-value
+C000993,43,Upper-middle,Salaried,South West,70,0.33423429632857676,4,73487.0,High-value
+C000994,29,Lower-middle,Salaried,London,78,0.7547010800750655,2,36240.0,Digital-first
+C000995,47,Upper-middle,Salaried,London,179,0.646883735776764,4,77004.0,High-value
+C000996,30,Lower-middle,Salaried,Wales,47,0.11059744288956022,2,32098.0,Mass market
+C000997,33,Middle,Independent,South West,175,0.24053406872321068,3,41001.0,Mass market
+C000998,28,Low,Salaried,London,64,0.7582275722549277,1,16206.0,Digital-first
+C000999,55,High,Salaried,Midlands,53,0.3460988158546611,5,95272.0,High-value
+C001000,47,Lower-middle,Salaried,South East,115,0.6867360079278377,2,30623.0,Digital-first
+C001001,46,Low,Salaried,London,125,0.4124017716276014,1,20367.0,Mass market
+C001002,54,Middle,Salaried,London,64,0.6409539752221756,3,46187.0,Mass market
+C001003,73,Low,Independent,London,26,0.3153374994329526,1,17651.0,Mature relationship
+C001004,18,Low,Independent,Midlands,73,0.5601963775922307,1,20266.0,Mass market
+C001005,30,Middle,Salaried,South East,98,0.14615256754971445,3,50473.0,Mass market
+C001006,32,Lower-middle,Contractor,South East,10,0.6298608000611777,2,31943.0,New customer
+C001007,29,Upper-middle,Contractor,London,16,0.5998704891885787,4,61682.0,High-value
+C001008,26,Lower-middle,Salaried,Scotland,165,0.7195810171344713,2,24264.0,Digital-first
+C001009,35,Middle,Independent,Midlands,9,0.233101458260452,3,36237.0,New customer
+C001010,24,Middle,Salaried,South West,75,0.5725637636875138,3,37422.0,Mass market
+C001011,43,Middle,Salaried,London,138,0.4016642666548727,3,43728.0,Mass market
+C001012,40,Middle,Salaried,Midlands,61,0.2656883659738359,3,45493.0,Mass market
+C001013,45,Middle,Salaried,South West,90,0.52947451303164,3,32494.0,Mass market
+C001014,45,High,Contractor,London,18,0.2638242438753883,5,87339.0,High-value
+C001015,46,Lower-middle,Contractor,London,143,0.43237645294800553,2,29090.0,Mass market
+C001016,35,Lower-middle,Contractor,London,115,0.0749930421282448,2,23969.0,Mass market
+C001017,64,Middle,Salaried,London,153,0.6590705428332665,3,44916.0,Mature relationship
+C001018,42,Upper-middle,Salaried,South East,155,0.40322875614530673,4,58950.0,High-value
+C001019,18,Low,Pensioner,London,65,0.3624278521107192,1,15917.0,Mass market
+C001020,27,Middle,Salaried,London,10,0.5060183060879905,3,42358.0,New customer
+C001021,18,Upper-middle,Salaried,Midlands,64,0.6645811573300898,4,65891.0,High-value
+C001022,39,Middle,Salaried,London,28,0.1572814093496439,3,36298.0,Mass market
+C001023,38,High,Salaried,South East,97,0.5669260105779391,5,91312.0,High-value
+C001024,33,Middle,Salaried,North West,28,0.2553323562521444,3,45143.0,Mass market
+C001025,63,Middle,Salaried,London,166,0.47933071942712685,3,36879.0,Mature relationship
+C001026,46,Lower-middle,Independent,London,109,0.30828682975321187,2,20573.0,Mass market
+C001027,48,High,Salaried,London,47,0.1264529403650039,5,71644.0,High-value
+C001028,28,Lower-middle,Salaried,London,166,0.2788932567300277,2,26127.0,Mass market
+C001029,27,Middle,Salaried,South East,139,0.26016654451244703,3,33140.0,Mass market
+C001030,39,Lower-middle,Salaried,London,80,0.5638771091388756,2,26442.0,Mass market
+C001031,41,Middle,Contractor,London,28,0.30053721051651916,3,53188.0,Mass market
+C001032,18,Middle,Salaried,Wales,63,0.6641346742890718,3,32736.0,Mass market
+C001033,37,Middle,Independent,Scotland,106,0.4035659133784832,3,40101.0,Mass market
+C001034,39,Upper-middle,Independent,London,138,0.3422178926318606,4,83152.0,High-value
+C001035,36,Lower-middle,Salaried,London,49,0.7236072188955581,2,29828.0,Digital-first
+C001036,29,Middle,Contractor,South East,134,0.15183362546281987,3,39529.0,Mass market
+C001037,33,Lower-middle,Independent,South West,53,0.47543759767049726,2,27297.0,Mass market
+C001038,37,Lower-middle,Salaried,South West,46,0.23093874079312876,2,29924.0,Mass market
+C001039,40,Middle,Salaried,London,82,0.454625455196335,3,53396.0,Mass market
+C001040,46,Low,Salaried,London,31,0.6372174258894239,1,16471.0,Mass market
+C001041,52,Low,Pensioner,South East,74,0.4488484454285464,1,15818.0,Mass market
+C001042,35,Middle,Independent,South West,66,0.43900670230061617,3,32734.0,Mass market
+C001043,34,Middle,Pensioner,South West,52,0.14159017480617628,3,42693.0,Mass market
+C001044,44,Middle,Contractor,London,140,0.4443324586074969,3,32554.0,Mass market
+C001045,46,Low,Salaried,Midlands,61,0.6592178576716817,1,16664.0,Mass market
+C001046,34,Lower-middle,Independent,London,126,0.3764060697248168,2,23929.0,Mass market
+C001047,48,Lower-middle,Salaried,North West,130,0.4445885134511453,2,32812.0,Mass market
+C001048,51,Upper-middle,Independent,Scotland,120,0.4114181574874354,4,56957.0,High-value
+C001049,55,Upper-middle,Salaried,South East,50,0.7221778154538849,4,65938.0,Digital-first
+C001050,60,Lower-middle,Salaried,London,149,0.1333037113250633,2,20814.0,Mature relationship
+C001051,29,Middle,Independent,Midlands,44,0.6114531597752111,3,42884.0,Mass market
+C001052,39,Low,Independent,South East,52,0.7686390123816578,1,14535.0,Digital-first
+C001053,39,Lower-middle,Independent,South West,157,0.36245843935042216,2,26093.0,Mass market
+C001054,38,Low,Salaried,South East,63,0.41483691787860183,1,24368.0,Mass market
+C001055,31,Lower-middle,Salaried,South West,126,0.4026427876188905,2,32176.0,Mass market
+C001056,21,Middle,Pensioner,London,10,0.5862963031365124,3,41137.0,New customer
+C001057,40,Upper-middle,Salaried,London,111,0.49585663140490815,4,93734.0,High-value
+C001058,30,Lower-middle,Salaried,London,156,0.5819869447354156,2,23900.0,Mass market
+C001059,40,Middle,Salaried,London,128,0.6063895667396454,3,49830.0,Mass market
+C001060,29,Middle,Salaried,London,106,0.2056208297902417,3,31700.0,Mass market
+C001061,26,High,Salaried,Midlands,153,0.18105892329278087,5,91292.0,High-value
+C001062,42,Middle,Salaried,London,55,0.6838326042384792,3,32943.0,Digital-first
+C001063,41,Lower-middle,Contractor,London,69,0.553529838965003,2,29153.0,Mass market
+C001064,46,Middle,Contractor,London,15,0.038343678952365574,3,42376.0,Mass market
+C001065,65,Lower-middle,Pensioner,London,126,0.47360212602505036,2,26622.0,Mature relationship
+C001066,42,High,Salaried,South West,131,0.23731396075896957,5,111599.0,High-value
+C001067,45,Lower-middle,Salaried,Scotland,135,0.12779449605237334,2,25459.0,Mass market
+C001068,26,Middle,Independent,London,135,0.33807937516312575,3,44196.0,Mass market
+C001069,24,Low,Contractor,North West,25,0.7939561803037349,1,20363.0,Digital-first
+C001070,58,Lower-middle,Salaried,North West,120,0.1525219339164247,2,21355.0,Mature relationship
+C001071,28,Upper-middle,Independent,Wales,138,0.3474103905121082,4,54576.0,High-value
+C001072,26,Middle,Independent,South East,39,0.3042144141463783,3,42362.0,Mass market
+C001073,39,Middle,Independent,London,87,0.48907840617779624,3,46235.0,Mass market
+C001074,38,High,Independent,South East,164,0.0922244451466666,5,116603.0,High-value
+C001075,28,Upper-middle,Salaried,South West,76,0.346753290679338,4,59858.0,High-value
+C001076,35,Lower-middle,Salaried,North West,136,0.6170420375042072,2,26582.0,Mass market
+C001077,54,Middle,Independent,South East,96,0.3337574003340093,3,36136.0,Mass market
+C001078,29,Middle,Salaried,London,119,0.6779314512862571,3,44217.0,Mass market
+C001079,22,Middle,Contractor,North West,113,0.4518944356445681,3,40003.0,Mass market
+C001080,50,Lower-middle,Independent,South West,118,0.3787200749080386,2,26772.0,Mass market
+C001081,45,Lower-middle,Salaried,South East,140,0.24130533724878328,2,27579.0,Mass market
+C001082,32,Upper-middle,Contractor,Midlands,163,0.6797249352052571,4,67472.0,High-value
+C001083,20,Upper-middle,Independent,South East,55,0.5165867234488744,4,56408.0,High-value
+C001084,30,Upper-middle,Independent,South East,167,0.5802235046310176,4,54340.0,High-value
+C001085,38,High,Salaried,South East,114,0.26415362792078534,5,101562.0,High-value
+C001086,53,Middle,Contractor,North West,108,0.1418189369292947,3,21667.0,Mass market
+C001087,27,Upper-middle,Salaried,Wales,61,0.31242881035575165,4,56012.0,High-value
+C001088,38,Upper-middle,Salaried,South East,76,0.37206202841591646,4,50579.0,High-value
+C001089,47,Middle,Salaried,South East,118,0.3977025785732308,3,50086.0,Mass market
+C001090,18,Middle,Independent,South East,67,0.5421054899043636,3,39037.0,Mass market
+C001091,51,Lower-middle,Independent,London,53,0.34541504125757616,2,25488.0,Mass market
+C001092,25,Middle,Salaried,London,147,0.8552355425231224,3,41673.0,Digital-first
+C001093,43,Lower-middle,Salaried,London,76,0.8457299045415428,2,25333.0,Digital-first
+C001094,42,Lower-middle,Contractor,South East,117,0.36493149062774116,2,26196.0,Mass market
+C001095,52,Middle,Independent,London,8,0.2692937470102067,3,42653.0,New customer
+C001096,46,Lower-middle,Salaried,South East,16,0.4530110007746276,2,26109.0,Mass market
+C001097,18,Lower-middle,Pensioner,North West,153,0.4711913315724094,2,26077.0,Mass market
+C001098,30,Upper-middle,Independent,London,28,0.3646499632046177,4,51979.0,High-value
+C001099,41,Upper-middle,Pensioner,Midlands,143,0.4969820829970332,4,50554.0,High-value
+C001100,37,Lower-middle,Pensioner,Scotland,162,0.3859260728379952,2,28272.0,Mass market
+C001101,45,Low,Contractor,Midlands,88,0.4470068820514067,1,18883.0,Mass market
+C001102,48,Lower-middle,Independent,London,159,0.6043535993232898,2,21602.0,Mass market
+C001103,46,Upper-middle,Independent,South East,78,0.5840120964146295,4,69539.0,High-value
+C001104,36,Upper-middle,Salaried,Midlands,171,0.5827619611972357,4,69579.0,High-value
+C001105,18,Low,Salaried,South East,44,0.8407766748144329,1,20807.0,Digital-first
+C001106,34,Upper-middle,Independent,London,78,0.3320208879312466,4,64975.0,High-value
+C001107,44,Low,Salaried,South East,71,0.4397757667619762,1,19835.0,Mass market
+C001108,26,Lower-middle,Contractor,Midlands,141,0.21411070360793197,2,37789.0,Mass market
+C001109,47,High,Salaried,London,10,0.42919357579287454,5,90417.0,New customer
+C001110,50,Lower-middle,Salaried,Midlands,149,0.3426686840912357,2,23315.0,Mass market
+C001111,41,Low,Salaried,London,7,0.23080260329866656,1,13582.0,New customer
+C001112,18,Lower-middle,Salaried,London,58,0.5701168749155608,2,35865.0,Mass market
+C001113,24,Middle,Salaried,South West,108,0.4551434836125479,3,53886.0,Mass market
+C001114,62,High,Salaried,London,28,0.963084291333736,5,80946.0,Digital-first
+C001115,32,High,Contractor,Midlands,89,0.7915815484692929,5,83945.0,Digital-first
+C001116,18,Low,Salaried,South East,179,0.16232416522746376,1,17067.0,Mass market
+C001117,54,Low,Salaried,London,148,0.541667342989276,1,21526.0,Mass market
+C001118,39,Upper-middle,Salaried,Scotland,8,0.38250012939428685,4,49230.0,New customer
+C001119,52,Lower-middle,Salaried,South East,107,0.12838075241406666,2,19190.0,Mass market
+C001120,42,Upper-middle,Salaried,London,108,0.2896989209400399,4,83502.0,High-value
+C001121,45,Middle,Independent,Scotland,15,0.38137095601777826,3,44099.0,Mass market
+C001122,43,Low,Independent,North West,118,0.8385034111350713,1,19309.0,Digital-first
+C001123,47,Upper-middle,Salaried,North West,95,0.3918078911257976,4,59965.0,High-value
+C001124,66,Lower-middle,Independent,London,123,0.4108057882205481,2,30087.0,Mature relationship
+C001125,51,Lower-middle,Salaried,London,55,0.2695985024510651,2,21216.0,Mass market
+C001126,20,Middle,Salaried,Midlands,48,0.832401650312309,3,36349.0,Digital-first
+C001127,44,Middle,Contractor,London,133,0.15171092896128996,3,42707.0,Mass market
+C001128,53,Middle,Salaried,London,130,0.5087958709008111,3,26740.0,Mass market
+C001129,53,Middle,Contractor,North West,31,0.4496722714503663,3,39967.0,Mass market
+C001130,34,High,Salaried,London,41,0.4666513493227451,5,89465.0,High-value
+C001131,53,High,Salaried,London,106,0.2550826988212517,5,90399.0,High-value
+C001132,50,Middle,Salaried,London,149,0.6539842715738572,3,38297.0,Mass market
+C001133,70,Low,Salaried,South East,38,0.28731274923242894,1,15132.0,Mature relationship
+C001134,30,Middle,Pensioner,Midlands,41,0.3111886784823335,3,29756.0,Mass market
+C001135,33,High,Salaried,South West,145,0.5855790642460252,5,97200.0,High-value
+C001136,35,Lower-middle,Contractor,London,126,0.4792565264388105,2,26655.0,Mass market
+C001137,33,Middle,Contractor,London,162,0.5834040900379136,3,32758.0,Mass market
+C001138,28,Lower-middle,Salaried,South East,141,0.47615268635538655,2,28280.0,Mass market
+C001139,18,Low,Salaried,South East,171,0.07995508270700082,1,17151.0,Mass market
+C001140,34,Middle,Salaried,South East,36,0.2862767237945062,3,38902.0,Mass market
+C001141,43,Lower-middle,Salaried,Scotland,51,0.18769248398999652,2,18337.0,Mass market
+C001142,33,Upper-middle,Independent,Midlands,45,0.6851448146777035,4,68773.0,Digital-first
+C001143,62,Upper-middle,Salaried,South East,12,0.03867152071646469,4,49768.0,High-value
+C001144,39,Upper-middle,Contractor,Wales,140,0.5082002286316448,4,62628.0,High-value
+C001145,54,Lower-middle,Independent,London,120,0.07468850373728259,2,24379.0,Mass market
+C001146,42,Lower-middle,Salaried,Scotland,18,0.2574640184805485,2,26259.0,Mass market
+C001147,49,Middle,Independent,South East,38,0.21976498579207976,3,49743.0,Mass market
+C001148,42,Upper-middle,Salaried,South East,36,0.5156653596939107,4,67274.0,High-value
+C001149,55,Middle,Contractor,Scotland,74,0.4200847490653986,3,49594.0,Mass market
+C001150,40,Upper-middle,Salaried,South East,83,0.7869184888430194,4,65277.0,Digital-first
+C001151,45,Low,Pensioner,South East,54,0.2504949384277914,1,19141.0,Mass market
+C001152,43,Upper-middle,Contractor,London,167,0.4094636138805793,4,44331.0,High-value
+C001153,36,Low,Contractor,Midlands,40,0.1856801129919027,1,17086.0,Mass market
+C001154,44,Low,Salaried,Midlands,102,0.821095759638989,1,17352.0,Digital-first
+C001155,66,Middle,Contractor,London,80,0.6303932597428796,3,50223.0,Mature relationship
+C001156,36,Low,Salaried,North West,71,0.7123720806856955,1,16542.0,Digital-first
+C001157,44,Low,Independent,Midlands,149,0.34938934227029456,1,18763.0,Mass market
+C001158,54,Low,Salaried,South East,176,0.4543841959094183,1,18650.0,Mass market
+C001159,53,Lower-middle,Salaried,London,4,0.750478948375503,2,33186.0,New customer
+C001160,39,Upper-middle,Salaried,South East,85,0.8493790424787351,4,60673.0,Digital-first
+C001161,18,Low,Salaried,London,24,0.6413971132656102,1,20384.0,Mass market
+C001162,45,Middle,Salaried,London,79,0.9486720346267747,3,30543.0,Digital-first
+C001163,18,Upper-middle,Contractor,South East,112,0.6679628083619017,4,45989.0,High-value
+C001164,57,Lower-middle,Salaried,London,75,0.3400251899811557,2,17771.0,Mass market
+C001165,41,Low,Independent,London,57,0.34098251579912464,1,20264.0,Mass market
+C001166,51,Upper-middle,Salaried,Midlands,58,0.2228174291945984,4,68683.0,High-value
+C001167,28,Upper-middle,Independent,London,56,0.423465725007852,4,70897.0,High-value
+C001168,20,Middle,Independent,Wales,60,0.4104844852152677,3,37448.0,Mass market
+C001169,42,Upper-middle,Salaried,Scotland,69,0.32929423644190925,4,56410.0,High-value
+C001170,39,Low,Independent,Midlands,124,0.4704522602777791,1,17651.0,Mass market
+C001171,33,Lower-middle,Contractor,Wales,19,0.4875455829383623,2,34468.0,Mass market
+C001172,40,Middle,Contractor,South West,10,0.4342813779052596,3,53383.0,New customer
+C001173,72,Lower-middle,Salaried,London,94,0.2753717378335611,2,31556.0,Mature relationship
+C001174,49,Upper-middle,Salaried,North West,123,0.6400877257379842,4,65284.0,High-value
+C001175,52,Middle,Independent,London,48,0.10908568610730375,3,50974.0,Mass market
+C001176,49,Upper-middle,Salaried,North West,38,0.8778261469040011,4,59462.0,Digital-first
+C001177,57,Middle,Contractor,South East,113,0.5128789208963266,3,39373.0,Mass market
+C001178,37,Lower-middle,Salaried,London,71,0.2570820872617316,2,27422.0,Mass market
+C001179,18,Lower-middle,Contractor,London,133,0.24541809444424212,2,23615.0,Mass market
+C001180,37,Lower-middle,Salaried,Scotland,28,0.2708553405352834,2,27216.0,Mass market
+C001181,49,Upper-middle,Salaried,London,24,0.49805077069403086,4,50915.0,High-value
+C001182,27,Low,Pensioner,London,100,0.4050278039565141,1,20952.0,Mass market
+C001183,37,Low,Contractor,London,72,0.46847774587476493,1,19566.0,Mass market
+C001184,31,Lower-middle,Contractor,South East,132,0.14181920763635034,2,34404.0,Mass market
+C001185,57,Lower-middle,Pensioner,South West,92,0.5757495709882925,2,20701.0,Mass market
+C001186,48,Upper-middle,Salaried,North West,65,0.7173324830860516,4,80865.0,Digital-first
+C001187,47,Lower-middle,Salaried,South East,31,0.6250130655700243,2,20955.0,Mass market
+C001188,46,High,Salaried,London,31,0.7230976731158608,5,76786.0,Digital-first
+C001189,39,Low,Salaried,London,136,0.24048382760740492,1,16212.0,Mass market
+C001190,41,Middle,Salaried,South East,43,0.17319114217255532,3,50788.0,Mass market
+C001191,25,Middle,Pensioner,South West,91,0.7095857421969995,3,43516.0,Digital-first
+C001192,18,Lower-middle,Salaried,North West,147,0.7308556636252861,2,26908.0,Digital-first
+C001193,41,Upper-middle,Salaried,South East,161,0.5825409694894579,4,54137.0,High-value
+C001194,43,High,Salaried,Midlands,50,0.6426038887000002,5,74086.0,High-value
+C001195,54,Upper-middle,Salaried,South East,22,0.37140199739153085,4,73236.0,High-value
+C001196,58,Lower-middle,Salaried,Midlands,140,0.12848054442508944,2,31578.0,Mature relationship
+C001197,58,Lower-middle,Independent,South East,124,0.27683026190398075,2,34059.0,Mature relationship
+C001198,27,Middle,Salaried,North West,61,0.32707610786573243,3,44667.0,Mass market
+C001199,35,Lower-middle,Independent,South East,108,0.45774756752551576,2,16163.0,Mass market
+C001200,45,Middle,Contractor,Scotland,36,0.5544911010216199,3,33636.0,Mass market

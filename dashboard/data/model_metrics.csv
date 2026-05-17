@@ -1,0 +1,3 @@
+model_name,target,train_rows,test_rows,train_positive_rate,test_positive_rate,roc_auc,pr_auc,brier_score,precision_at_50,precision_at_100,classification_precision_threshold_050
+conversion_model,converted_next_3m,18000.0,3600.0,0.08705555555555555,0.08833333333333333,0.6313645230895412,0.15520322877119297,0.22520330809855738,0.28,0.27,0.1378026070763501
+responsible_behaviour_model,responsible_credit_behaviour_6m,18000.0,3600.0,0.8007222222222222,0.8044444444444444,0.6494802784404822,0.868280288255393,0.23012564810127306,0.92,0.9,0.8621000450653448
