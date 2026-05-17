@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-The format is inspired by Keep a Changelog, and this project uses semantic versioning for public portfolio releases.
+The format is inspired by Keep a Changelog, and this project uses semantic versioning for public releases.
 
 ## [v1.0.0] - 2026-05-17
 
@@ -26,4 +26,4 @@ The format is inspired by Keep a Changelog, and this project uses semantic versi
 ### Notes
 
 - All data is synthetic.
-- The repository is intended for portfolio demonstration and decision-support design, not automated credit approval.
+- The repository is intended for demonstration and decision-support design, not automated credit approval.
