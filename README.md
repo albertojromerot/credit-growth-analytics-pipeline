@@ -129,7 +129,7 @@ Traditional campaign segmentation often relies on static rules such as income ba
 
 ---
 
-## 2. Portfolio Relevance
+## 2. Relevance
 
 This project demonstrates the ability to:
 
