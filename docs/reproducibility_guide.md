@@ -82,33 +82,7 @@ The dashboard is the final visual output of the ML/AI pipeline. It provides a Po
 
 A non-technical reviewer should start with the Main Dashboard and Executive Overview. A technical reviewer should also inspect Model Performance and Governance Monitoring.
 
-## 6. Capture dashboard screenshots
-
-After launching the dashboard, capture these five pages and save them in:
-
-```text
-docs/assets/screenshots/
-```
-
-Recommended filenames:
-
-```text
-01_dashboard_landing.png
-02_executive_overview.png
-03_customer_ranking.png
-04_model_performance.png
-05_governance_monitoring.png
-```
-
-On macOS, use:
-
-```text
-Command + Shift + 5
-```
-
-Then upload the files to the screenshot folder in GitHub.
-
-## 7. Troubleshooting
+## 6. Troubleshooting
 
 | Error | Likely cause | Fix |
 |---|---|---|
@@ -116,15 +90,3 @@ Then upload the files to the screenshot folder in GitHub.
 | `No module named 'src'` | Pipeline run from the wrong folder | Run `python -m src.run_pipeline` from the repository root |
 | `PermissionError` during pytest collection | Tests run from a parent folder | Run `python -m pytest tests -q` from the repository root |
 | Streamlit cannot find the app file | Wrong folder | Run the Streamlit command from the repository root |
-
-## 8. Reviewer checklist
-
-A reviewer should be able to confirm that:
-
-1. the project installs from `requirements.txt`;
-2. the pipeline runs end to end;
-3. tests pass;
-4. the dashboard launches;
-5. the final dashboard results are visible;
-6. documentation explains the business problem, modelling logic, governance, and limitations;
-7. GitHub Actions validates the pipeline and tests automatically.
