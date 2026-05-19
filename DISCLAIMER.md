@@ -17,8 +17,8 @@ The project demonstrates a responsible credit-growth Next-Best-Action pipeline. 
 
 ## Simplified modelling assumptions
 
-The expected-value calculations, eligibility rules, responsible-lending filters, and synthetic labels are simplified for portfolio demonstration. Any real-world deployment would require independent validation, fairness assessment, privacy controls, data-protection review, compliance approval, monitoring, and human oversight.
+The expected-value calculations, eligibility rules, responsible-lending filters, and synthetic labels are simplified for demonstration. Any real-world deployment would require independent validation, fairness assessment, privacy controls, data-protection review, compliance approval, monitoring, and human oversight.
 
 ## No warranty
 
-The repository is provided as-is for educational and portfolio purposes. See the repository licence for terms of use.
+The repository is provided as-is for educational purposes. See the repository licence for terms of use.
