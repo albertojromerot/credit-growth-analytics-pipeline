@@ -12,8 +12,6 @@ Recommended files:
 05_governance_monitoring.png
 ```
 
-After running the dashboard locally, capture each page and upload the images to this folder.
-
 Dashboard command from the repository root:
 
 ```bash
